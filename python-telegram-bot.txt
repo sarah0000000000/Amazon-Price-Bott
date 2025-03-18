@@ -1,0 +1,49 @@
+from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
+from telegram.ext import Updater, CommandHandler, CallbackContext, CallbackQueryHandler
+
+# Commande /start
+def start(update: Update, context: CallbackContext):
+    update.message.reply_text(
+        "🤖 Bienvenue sur Amazon Price Bot !\n\n"
+        "Commandes disponibles :\n"
+        "/start - Affiche ce message\n"
+        "/help - Affiche l'aide\n"
+        "/add <URL> - Ajoute un produit à surveiller\n"
+        "/list - Liste les produits surveillés\n"
+        "/remove <ASIN> - Supprime un produit\n"
+        "/stats - Affiche les statistiques\n"
+        "/settings - Configure les notifications"
+    )
+
+# Commande /settings
+def settings(update: Update, context: CallbackContext):
+    keyboard = [
+        [InlineKeyboardButton("Baisse de prix", callback_data="alert_price_drop")],
+        [InlineKeyboardButton("Erreur de prix", callback_data="alert_price_error")],
+        [InlineKeyboardButton("Produit en stock", callback_data="alert_stock")],
+    ]
+    reply_markup = InlineKeyboardMarkup(keyboard)
+    update.message.reply_text("🔔 Choisissez les notifications :", reply_markup=reply_markup)
+
+# Gestion des boutons
+def button_handler(update: Update, context: CallbackContext):
+    query = update.callback_query
+    query.answer()
+    query.edit_message_text(f"✅ Option sélectionnée : {query.data}")
+
+# Configuration du bot
+def main():
+    updater = Updater("YOUR_TELEGRAM_TOKEN")
+    dispatcher = updater.dispatcher
+
+    # Ajoutez les gestionnaires de commandes
+    dispatcher.add_handler(CommandHandler("start", start))
+    dispatcher.add_handler(CommandHandler("settings", settings))
+    dispatcher.add_handler(CallbackQueryHandler(button_handler))
+
+    # Démarrez le bot
+    updater.start_polling()
+    updater.idle()
+
+if __name__ == "__main__":
+    main()

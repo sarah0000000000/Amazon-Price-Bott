@@ -1,0 +1,575 @@
+2025-03-16 18:09:34,509 - INFO - HTTP Request: POST https://api.telegram.org/bot8141997354:AAFrmvssastSqETK13ZrfSS4QbSSppMHUgU/sendMessage "HTTP/1.1 401 Unauthorized"
+2025-03-16 18:09:34,510 - ERROR - Erreur lors de l'envoi de l'alerte Telegram : Unauthorized
+2025-03-16 18:09:34,510 - INFO - Démarrage du bot...
+2025-03-16 18:09:34,517 - INFO - Génération des URLs...
+2025-03-16 18:09:34,518 - INFO - 11 catégories trouvées.
+2025-03-16 18:09:34,518 - INFO - Scraping de la catégorie : https://www.amazon.fr/gp/bestsellers/console-gaming
+2025-03-16 18:09:34,770 - INFO - 0 ASINs trouvés dans https://www.amazon.fr/gp/bestsellers/console-gaming.
+2025-03-16 18:09:34,770 - INFO - Scraping de la catégorie : https://www.amazon.fr/s?k=samsung
+2025-03-16 18:09:36,270 - INFO - 68 ASINs trouvés dans https://www.amazon.fr/s?k=samsung.
+2025-03-16 18:09:36,270 - INFO - Scraping de la catégorie : https://www.amazon.fr/gp/bestsellers/pc
+2025-03-16 18:09:36,478 - INFO - 0 ASINs trouvés dans https://www.amazon.fr/gp/bestsellers/pc.
+2025-03-16 18:09:36,478 - INFO - Scraping de la catégorie : https://www.amazon.fr/gp/bestsellers/laptops
+2025-03-16 18:09:36,748 - INFO - 0 ASINs trouvés dans https://www.amazon.fr/gp/bestsellers/laptops.
+2025-03-16 18:09:36,748 - INFO - Scraping de la catégorie : https://www.amazon.fr/gp/bestsellers/phones
+2025-03-16 18:09:36,967 - INFO - 0 ASINs trouvés dans https://www.amazon.fr/gp/bestsellers/phones.
+2025-03-16 18:09:36,967 - INFO - Scraping de la catégorie : https://www.amazon.fr/gp/bestsellers/videogames
+2025-03-16 18:09:37,742 - INFO - 30 ASINs trouvés dans https://www.amazon.fr/gp/bestsellers/videogames.
+2025-03-16 18:09:37,742 - INFO - Scraping de la catégorie : https://www.amazon.fr/gp/bestsellers/pc-gaming
+2025-03-16 18:09:37,967 - INFO - 0 ASINs trouvés dans https://www.amazon.fr/gp/bestsellers/pc-gaming.
+2025-03-16 18:09:37,967 - INFO - Scraping de la catégorie : https://www.amazon.fr/gp/bestsellers/tv-hifi
+2025-03-16 18:11:53,236 - INFO - HTTP Request: POST https://api.telegram.org/bot7958635611:AAEEUr5m0gNoSjMPhTDeNf-td3exhK4AVYs/sendMessage "HTTP/1.1 200 OK"
+2025-03-16 18:11:53,237 - INFO - Message Telegram envoyé avec succès.
+2025-03-16 18:11:53,237 - INFO - Démarrage du bot...
+2025-03-16 18:11:53,265 - INFO - Génération des URLs...
+2025-03-16 18:11:53,265 - INFO - 11 catégories trouvées.
+2025-03-16 18:11:53,265 - INFO - Scraping de la catégorie : https://www.amazon.fr/s?k=samsung
+2025-03-16 18:11:54,760 - INFO - 68 ASINs trouvés dans https://www.amazon.fr/s?k=samsung.
+2025-03-16 18:11:54,760 - INFO - Scraping de la catégorie : https://www.amazon.fr/gp/bestsellers/phones
+2025-03-16 18:11:55,021 - INFO - 0 ASINs trouvés dans https://www.amazon.fr/gp/bestsellers/phones.
+2025-03-16 18:11:55,021 - INFO - Scraping de la catégorie : https://www.amazon.fr/gp/bestsellers/electronics
+2025-03-16 18:11:55,781 - INFO - 30 ASINs trouvés dans https://www.amazon.fr/gp/bestsellers/electronics.
+2025-03-16 18:11:55,781 - INFO - Scraping de la catégorie : https://www.amazon.fr/gp/bestsellers/pc
+2025-03-16 18:11:56,000 - INFO - 0 ASINs trouvés dans https://www.amazon.fr/gp/bestsellers/pc.
+2025-03-16 18:11:56,000 - INFO - Scraping de la catégorie : https://www.amazon.fr/gp/bestsellers/pc-gaming
+2025-03-16 18:11:56,206 - INFO - 0 ASINs trouvés dans https://www.amazon.fr/gp/bestsellers/pc-gaming.
+2025-03-16 18:11:56,206 - INFO - Scraping de la catégorie : https://www.amazon.fr/gp/bestsellers/videogames
+2025-03-16 18:11:56,992 - INFO - 30 ASINs trouvés dans https://www.amazon.fr/gp/bestsellers/videogames.
+2025-03-16 18:11:56,992 - INFO - Scraping de la catégorie : https://www.amazon.fr/s?k=iphone
+2025-03-16 18:11:58,064 - INFO - 56 ASINs trouvés dans https://www.amazon.fr/s?k=iphone.
+2025-03-16 18:11:58,065 - INFO - Scraping de la catégorie : https://www.amazon.fr/gp/bestsellers/tv-hifi
+2025-03-16 18:11:58,271 - INFO - 0 ASINs trouvés dans https://www.amazon.fr/gp/bestsellers/tv-hifi.
+2025-03-16 18:11:58,271 - INFO - Scraping de la catégorie : https://www.amazon.fr/gp/bestsellers/console-gaming
+2025-03-16 18:11:58,498 - INFO - 0 ASINs trouvés dans https://www.amazon.fr/gp/bestsellers/console-gaming.
+2025-03-16 18:11:58,498 - INFO - Scraping de la catégorie : https://www.amazon.fr/gp/bestsellers/laptops
+2025-03-16 18:11:58,710 - INFO - 0 ASINs trouvés dans https://www.amazon.fr/gp/bestsellers/laptops.
+2025-03-16 18:11:58,710 - INFO - Scraping de la catégorie : https://www.amazon.fr/gp/bestsellers/computers
+2025-03-16 18:11:59,649 - INFO - 30 ASINs trouvés dans https://www.amazon.fr/gp/bestsellers/computers.
+2025-03-16 18:11:59,650 - INFO - 214 URLs générées.
+2025-03-16 18:11:59,650 - INFO - Traitement du lot 1 (URLs 0 à 50)...
+2025-03-16 18:12:10,754 - INFO - Résultats du scraping : 50 produits trouvés.
+2025-03-16 18:12:10,754 - INFO - Produit : Nom inconnu, Prix : None, URL : https://www.amazon.fr/dp/B0CTTV7BJ6
+2025-03-16 18:12:10,754 - WARNING - \u26a0\ufe0f Prix invalide pour Nom inconnu : None
+2025-03-16 18:12:10,754 - INFO - Produit : Nom inconnu, Prix : None, URL : https://www.amazon.fr/dp/B0CTTSBC1F
+2025-03-16 18:12:10,754 - WARNING - \u26a0\ufe0f Prix invalide pour Nom inconnu : None
+2025-03-16 18:12:10,754 - INFO - Produit : Nom inconnu, Prix : None, URL : https://www.amazon.fr/dp/B0CTTXHHGR
+2025-03-16 18:12:10,754 - WARNING - \u26a0\ufe0f Prix invalide pour Nom inconnu : None
+2025-03-16 18:12:10,754 - INFO - Produit : Nom inconnu, Prix : 116.0, URL : https://www.amazon.fr/dp/B0CQJY9JYT
+2025-03-16 18:12:10,758 - INFO - Produit : Nom inconnu, Prix : 97.0, URL : https://www.amazon.fr/dp/B0DDKLRFVV
+2025-03-16 18:12:10,761 - INFO - Produit : Nom inconnu, Prix : 143.0, URL : https://www.amazon.fr/dp/B0DM1S54MZ
+2025-03-16 18:12:10,764 - INFO - Produit : Nom inconnu, Prix : 129.0, URL : https://www.amazon.fr/dp/B0CN12J4Y2
+2025-03-16 18:12:10,767 - INFO - Produit : Samsung SM-A155F Galaxy A15 Dual SIM 4GB RAM 128GB Blue Black EU, Prix : 166.0, URL : https://www.amazon.fr/dp/B0CNKT2D1G
+2025-03-16 18:12:10,769 - INFO - Produit : Ulefone Note 18 Pro Téléphone Portable, 12Go+256Go/TF-2TB, Smartphone Android 14, Caméra 64MP+50MP+32MP, Écran 6.78" HD+, 5450mAh 18W Charge Rapide, 4G Dual SIM/NFC/GPS/OTG/2Ans Garantie Noir, Prix : 149.0, URL : https://www.amazon.fr/dp/B0DN5XZ19W
+2025-03-16 18:12:10,772 - INFO - Produit : Nom inconnu, Prix : 729.0, URL : https://www.amazon.fr/dp/B0D7V1QPKB
+2025-03-16 18:12:10,775 - INFO - Produit : Nom inconnu, Prix : 74.0, URL : https://www.amazon.fr/dp/B0D6VX68ZJ
+2025-03-16 18:12:10,777 - INFO - Produit : Nom inconnu, Prix : 138.0, URL : https://www.amazon.fr/dp/B0DKTJ22QN
+2025-03-16 18:12:10,779 - INFO - Produit : Nom inconnu, Prix : 207.0, URL : https://www.amazon.fr/dp/B0BWS9WQDY
+2025-03-16 18:12:10,782 - INFO - Produit : Nom inconnu, Prix : None, URL : https://www.amazon.fr/dp/B0DP5PBR93
+2025-03-16 18:12:10,782 - WARNING - \u26a0\ufe0f Prix invalide pour Nom inconnu : None
+2025-03-16 18:12:10,782 - INFO - Produit : Nom inconnu, Prix : 119.0, URL : https://www.amazon.fr/dp/B0CN13F65C
+2025-03-16 18:12:10,784 - INFO - Produit : Nom inconnu, Prix : None, URL : https://www.amazon.fr/dp/B0CR77BGWB
+2025-03-16 18:12:10,784 - WARNING - \u26a0\ufe0f Prix invalide pour Nom inconnu : None
+2025-03-16 18:12:10,784 - INFO - Produit : Nom inconnu, Prix : 236.0, URL : https://www.amazon.fr/dp/B0CN12K224
+2025-03-16 18:12:10,787 - INFO - Produit : Nom inconnu, Prix : 172.0, URL : https://www.amazon.fr/dp/B0CQ5C2274
+2025-03-16 18:12:10,789 - INFO - Produit : Nom inconnu, Prix : 166.0, URL : https://www.amazon.fr/dp/B0DJ114V4B
+2025-03-16 18:12:10,792 - INFO - Produit : Nom inconnu, Prix : 272.0, URL : https://www.amazon.fr/dp/B0BYMPCWHN
+2025-03-16 18:12:10,795 - INFO - Produit : Nom inconnu, Prix : 162.0, URL : https://www.amazon.fr/dp/B0DHZZ67HX
+2025-03-16 18:12:10,797 - INFO - Produit : Nom inconnu, Prix : 119.0, URL : https://www.amazon.fr/dp/B0DHLCDJNR
+2025-03-16 18:12:10,800 - INFO - Produit : Nom inconnu, Prix : 85.0, URL : https://www.amazon.fr/dp/B07XBRWL91
+2025-03-16 18:12:10,802 - INFO - Produit : Nom inconnu, Prix : 158.0, URL : https://www.amazon.fr/dp/B0DJ12W1ZJ
+2025-03-16 18:12:10,804 - INFO - Produit : WATACHE Conçu pour Samsung Galaxy Z Flip 4 Case 5 G 2022 Case Clear with Ring, Housse de Protection Anti-Chocs Anti-Chute pour téléphone (Violet), Prix : 13.0, URL : https://www.amazon.fr/dp/B0B8MTF2SC
+2025-03-16 18:12:10,807 - INFO - Produit : Nom inconnu, Prix : None, URL : https://www.amazon.fr/dp/B084ZCSG22
+2025-03-16 18:12:10,807 - WARNING - \u26a0\ufe0f Prix invalide pour Nom inconnu : None
+2025-03-16 18:12:10,807 - INFO - Produit : Nom inconnu, Prix : 10.0, URL : https://www.amazon.fr/dp/B0CSCHS72J
+2025-03-16 18:12:10,809 - INFO - Produit : Samsung Galaxy S9 64 Go (Single SIM) - Noir - Android 8.0 (Version IT Opérateur) (Reconditionné) ), Prix : 89.0, URL : https://www.amazon.fr/dp/B07NS5QPJM
+2025-03-16 18:12:10,812 - INFO - Produit : Nom inconnu, Prix : 335.0, URL : https://www.amazon.fr/dp/B0CYM3BRGG
+2025-03-16 18:12:10,814 - INFO - Produit : Nom inconnu, Prix : 254.0, URL : https://www.amazon.fr/dp/B0CY8D7L7F
+2025-03-16 18:12:10,817 - INFO - Produit : Nom inconnu, Prix : 123.0, URL : https://www.amazon.fr/dp/B0CN137WV2
+2025-03-16 18:12:10,820 - INFO - Produit : Nom inconnu, Prix : 169.0, URL : https://www.amazon.fr/dp/B0CTH16HB8
+2025-03-16 18:12:10,822 - INFO - Produit : Samsung A256B Galaxy A25 5G 128 Go/6 Go de RAM, Double SIM, Noir, Prix : 237.0, URL : https://www.amazon.fr/dp/B0CN12BMRW
+2025-03-16 18:12:10,824 - INFO - Produit : Samsung SM-A057 Galaxy A05s Dual SIM 4GB RAM 128GB Silver EU, Prix : 129.0, URL : https://www.amazon.fr/dp/B0CN12J4Y2
+2025-03-16 18:12:10,825 - INFO - Produit : Nom inconnu, Prix : 258.0, URL : https://www.amazon.fr/dp/B0CN14TNHD
+2025-03-16 18:12:10,827 - INFO - Produit : Nom inconnu, Prix : 314.0, URL : https://www.amazon.fr/dp/B0CYLWTZD1
+2025-03-16 18:12:10,829 - INFO - Produit : Nom inconnu, Prix : 139.0, URL : https://www.amazon.fr/dp/B0DPHBX2Q9
+2025-03-16 18:12:10,832 - INFO - Produit : Samsung A346B Galaxy A34, All Carriers, 5G 128 GB (Awesome Graphite) ohne Simlock, ohne Branding, Prix : 223.0, URL : https://www.amazon.fr/dp/B0BYMP9KZP
+2025-03-16 18:12:10,834 - INFO - Produit : Samsung A057G/DSN Galaxy A05s, Dual, 64GB 4GB Ram, Black, Prix : 116.0, URL : https://www.amazon.fr/dp/B0CNSWLBG5
+2025-03-16 18:12:10,837 - INFO - Produit : Nom inconnu, Prix : 8.0, URL : https://www.amazon.fr/dp/B0DKSTTQRF
+2025-03-16 18:12:10,840 - INFO - Produit : Nom inconnu, Prix : None, URL : https://www.amazon.fr/dp/B0BXXYB65R
+2025-03-16 18:12:10,840 - WARNING - \u26a0\ufe0f Prix invalide pour Nom inconnu : None
+2025-03-16 18:12:10,840 - INFO - Produit : Coque Compatible avec Samsung Galaxy A16 4G / 5G, 3 Pièces Protection Écran en Verre Trempé, Housse Souple et Plaquage, Étui Antichoc et Anti-Rayures - Cyan, Prix : 7.0, URL : https://www.amazon.fr/dp/B0DJNL7192
+2025-03-16 18:12:10,843 - INFO - Produit : Nom inconnu, Prix : 8.0, URL : https://www.amazon.fr/dp/B0DLW52K2N
+2025-03-16 18:12:10,846 - INFO - Produit : Samsung SM-A155F Galaxy A15 Dual SIM 4GB RAM 128GB Blue Black EU, Prix : 166.0, URL : https://www.amazon.fr/dp/B0CNKT2D1G
+2025-03-16 18:12:10,846 - INFO - Produit : Nom inconnu, Prix : 161.0, URL : https://www.amazon.fr/dp/B0BYWB6R4N
+2025-03-16 18:12:10,848 - INFO - Produit : Nom inconnu, Prix : 408.0, URL : https://www.amazon.fr/dp/B0CVQL3L2K
+2025-03-16 18:12:10,852 - INFO - Produit : Nom inconnu, Prix : None, URL : https://www.amazon.fr/dp/B0CNKT21Z5
+2025-03-16 18:12:10,852 - WARNING - \u26a0\ufe0f Prix invalide pour Nom inconnu : None
+2025-03-16 18:12:10,852 - INFO - Produit : Nom inconnu, Prix : 516.0, URL : https://www.amazon.fr/dp/B0DJB442RS
+2025-03-16 18:12:10,854 - INFO - Produit : Nom inconnu, Prix : 246.0, URL : https://www.amazon.fr/dp/B0CS297MLL
+2025-03-16 18:12:10,857 - INFO - Produit : Nom inconnu, Prix : 367.0, URL : https://www.amazon.fr/dp/B0D2J35LLQ
+2025-03-16 18:12:32,493 - INFO - Traitement du lot 2 (URLs 50 à 100)...
+2025-03-16 18:12:42,796 - INFO - Résultats du scraping : 50 produits trouvés.
+2025-03-16 18:12:42,796 - INFO - Produit : Nom inconnu, Prix : 127.0, URL : https://www.amazon.fr/dp/B0CP44JVQF
+2025-03-16 18:12:42,843 - INFO - Produit : Nom inconnu, Prix : 250.0, URL : https://www.amazon.fr/dp/B0CN13L6F7
+2025-03-16 18:12:42,845 - INFO - Produit : Smartphone Samsung Galaxy A55 5G 256Go Bleu ciel, Prix : 366.0, URL : https://www.amazon.fr/dp/B0CVQ86VDB
+2025-03-16 18:12:42,848 - INFO - Produit : Nom inconnu, Prix : None, URL : https://www.amazon.fr/dp/B08V1NR7CR
+2025-03-16 18:12:42,848 - WARNING - \u26a0\ufe0f Prix invalide pour Nom inconnu : None
+2025-03-16 18:12:42,848 - INFO - Produit : SAMSUNG Galaxy A55 5G Smartphone 128 GB Mitternachtsblau, Prix : 343.0, URL : https://www.amazon.fr/dp/B0CVQ7DDS3
+2025-03-16 18:12:42,850 - INFO - Produit : Nom inconnu, Prix : 335.0, URL : https://www.amazon.fr/dp/B0CVQ6SYFK
+2025-03-16 18:12:42,853 - INFO - Produit : Nom inconnu, Prix : 171.0, URL : https://www.amazon.fr/dp/B0DGTTN6G8
+2025-03-16 18:12:42,855 - INFO - Produit : Nom inconnu, Prix : 899.0, URL : https://www.amazon.fr/dp/B0CSVS3FNK
+2025-03-16 18:12:42,856 - INFO - Produit : Nom inconnu, Prix : None, URL : https://www.amazon.fr/dp/B0DNZK9L22
+2025-03-16 18:12:42,856 - WARNING - \u26a0\ufe0f Prix invalide pour Nom inconnu : None
+2025-03-16 18:12:42,856 - INFO - Produit : Nom inconnu, Prix : 349.0, URL : https://www.amazon.fr/dp/B0CYLRD2X8
+2025-03-16 18:12:42,858 - INFO - Produit : Nom inconnu, Prix : None, URL : https://www.amazon.fr/dp/B0CP18RWN4
+2025-03-16 18:12:42,858 - WARNING - \u26a0\ufe0f Prix invalide pour Nom inconnu : None
+2025-03-16 18:12:42,858 - INFO - Produit : Nom inconnu, Prix : 559.0, URL : https://www.amazon.fr/dp/B0DJB5K2Z2
+2025-03-16 18:12:42,860 - INFO - Produit : Nom inconnu, Prix : 106.0, URL : https://www.amazon.fr/dp/B07YX526XT
+2025-03-16 18:12:42,862 - INFO - Produit : Nom inconnu, Prix : 35.0, URL : https://www.amazon.fr/dp/B09T2R1ZV9
+2025-03-16 18:12:42,865 - INFO - Produit : UMIDIGI G9A Smartphone, Android 14 Go Telephone Portable, 8GB+64GB/1TB Téléphone, 6.75''HD Écran, 4G Double SIM Téléphone Portable, Octa-Core Processor/13MP+8MP Caméras/5000mAh Batterie - Blanc, Prix : 89.0, URL : https://www.amazon.fr/dp/B0DMT4DNN7
+2025-03-16 18:12:42,866 - INFO - Produit : Nom inconnu, Prix : 12.0, URL : https://www.amazon.fr/dp/B0C2Z2L8HZ
+2025-03-16 18:12:42,868 - INFO - Produit : Nom inconnu, Prix : None, URL : https://www.amazon.fr/dp/B0DK3KZY9C
+2025-03-16 18:12:42,868 - WARNING - \u26a0\ufe0f Prix invalide pour Nom inconnu : None
+2025-03-16 18:12:42,868 - INFO - Produit : Nom inconnu, Prix : 22.0, URL : https://www.amazon.fr/dp/B09SL232TW
+2025-03-16 18:12:42,870 - INFO - Produit : Nom inconnu, Prix : 44.0, URL : https://www.amazon.fr/dp/B0CQMWQDH4
+2025-03-16 18:12:42,872 - INFO - Produit : Nom inconnu, Prix : None, URL : https://www.amazon.fr/dp/B095CLQ1PT
+2025-03-16 18:12:42,872 - WARNING - \u26a0\ufe0f Prix invalide pour Nom inconnu : None
+2025-03-16 18:12:42,872 - INFO - Produit : Nom inconnu, Prix : 6.0, URL : https://www.amazon.fr/dp/B00TYEL11K
+2025-03-16 18:12:42,874 - INFO - Produit : Nom inconnu, Prix : 11.0, URL : https://www.amazon.fr/dp/B0CYSQPXDV
+2025-03-16 18:12:42,876 - INFO - Produit : Batterie Externe 20000mAh 22.5W PD3.0 QC4.0 Power Bank Batterie Portable USB C Input & Output Charge Rapide Powerbank avec écran LCD Compatible avec Smartphones, smartwatches, etc., Prix : 11.0, URL : https://www.amazon.fr/dp/B0DPSFNQPT
+2025-03-16 18:12:42,878 - INFO - Produit : Nom inconnu, Prix : None, URL : https://www.amazon.fr/dp/B0935DN1BN
+2025-03-16 18:12:42,878 - WARNING - \u26a0\ufe0f Prix invalide pour Nom inconnu : None
+2025-03-16 18:12:42,878 - INFO - Produit : Nom inconnu, Prix : None, URL : https://www.amazon.fr/dp/B0D5GKMM1V
+2025-03-16 18:12:42,878 - WARNING - \u26a0\ufe0f Prix invalide pour Nom inconnu : None
+2025-03-16 18:12:42,878 - INFO - Produit : Imou 2K(3MP) Caméra Surveillance WiFi Intérieure Caméra 360° Connectée Smartphone avec Détection Humaine AI Suivi Intelligent Sirène Audio Bidirectionnel Compatible Alexa pour Bébé/Animaux, Prix : 18.0, URL : https://www.amazon.fr/dp/B08X6DCJT2
+2025-03-16 18:12:42,880 - INFO - Produit : Nom inconnu, Prix : 21.0, URL : https://www.amazon.fr/dp/B08JTQ66K7
+2025-03-16 18:12:42,882 - INFO - Produit : Nom inconnu, Prix : 7.0, URL : https://www.amazon.fr/dp/B07BF3W324
+2025-03-16 18:12:42,884 - INFO - Produit : Nom inconnu, Prix : None, URL : https://www.amazon.fr/dp/B07L49RDJH
+2025-03-16 18:12:42,884 - WARNING - \u26a0\ufe0f Prix invalide pour Nom inconnu : None
+2025-03-16 18:12:42,884 - INFO - Produit : Nom inconnu, Prix : 10.0, URL : https://www.amazon.fr/dp/B07L49WWWR
+2025-03-16 18:12:42,886 - INFO - Produit : Nom inconnu, Prix : 5.0, URL : https://www.amazon.fr/dp/B01CG0TO76
+2025-03-16 18:12:42,888 - INFO - Produit : Nom inconnu, Prix : 17.0, URL : https://www.amazon.fr/dp/B0D2HG659D
+2025-03-16 18:12:42,890 - INFO - Produit : Nom inconnu, Prix : 10.0, URL : https://www.amazon.fr/dp/B0D6FWY91D
+2025-03-16 18:12:42,892 - INFO - Produit : Nom inconnu, Prix : None, URL : https://www.amazon.fr/dp/B07MLFBJG3
+2025-03-16 18:12:42,892 - WARNING - \u26a0\ufe0f Prix invalide pour Nom inconnu : None
+2025-03-16 18:12:42,892 - INFO - Produit : Nom inconnu, Prix : 13.0, URL : https://www.amazon.fr/dp/B0D17L15YV
+2025-03-16 18:12:42,894 - INFO - Produit : Apple AirPods Pro 2 Écouteurs sans Fil, Casques et écouteurs Bluetooth, Réduction Active du Bruit, Appareil auditif, Mode Transparence, Audio Spatial personnalisé, Son Haute-fidélité, Recharge USB-C, Prix : 179.0, URL : https://www.amazon.fr/dp/B0CHWZ9TZS
+2025-03-16 18:12:42,895 - INFO - Produit : Nom inconnu, Prix : 10.0, URL : https://www.amazon.fr/dp/B093LT2N4Q
+2025-03-16 18:12:42,897 - INFO - Produit : Nom inconnu, Prix : 16.0, URL : https://www.amazon.fr/dp/B0CHLYB4Z3
+2025-03-16 18:12:42,899 - INFO - Produit : 45W Chargeur USB C Secteur Charge Rapide pour Samsung Galaxy S25/S24/S23/S22/S21 Ultra/S20/S20+/Note 20/10/9/8/A73/A53/A52/S10/S9 et 2M Câble, Nanaisse Adaptateur Type C Mural Alimentation Prise Noir, Prix : 16.0, URL : https://www.amazon.fr/dp/B0CFXH1H17
+2025-03-16 18:12:42,901 - INFO - Produit : Amazon Basics piles alkaline AAA industrielles, 40 Unités (Lot de 1), Prix : 11.0, URL : https://www.amazon.fr/dp/B07MLDJF3B
+2025-03-16 18:12:42,902 - INFO - Produit : Nom inconnu, Prix : 9.0, URL : https://www.amazon.fr/dp/B093LVB4P7
+2025-03-16 18:12:42,904 - INFO - Produit : Blister 20 Piles Boutons AG13 LR44/LR1154/357 sans Mercure (AG13&LR44-20 Piles), Prix : 5.0, URL : https://www.amazon.fr/dp/B07D8SCV11
+2025-03-16 18:12:42,906 - INFO - Produit : Nom inconnu, Prix : 11.0, URL : https://www.amazon.fr/dp/B06VW5BH2K
+2025-03-16 18:12:42,908 - INFO - Produit : JBL GO 4, Enceinte Bluetooth ultra-portable, son JBL Pro, basses percutantes, 7 heures d'autonomie, fonction Playtime Boost, résistante à l'eau et à la poussière IP67, noir, Prix : 39.0, URL : https://www.amazon.fr/dp/B0CX5C6WP3
+2025-03-16 18:12:42,909 - INFO - Produit : Nom inconnu, Prix : 8.0, URL : https://www.amazon.fr/dp/B0D8J688ZJ
+2025-03-16 18:12:42,911 - INFO - Produit : Nom inconnu, Prix : 18.0, URL : https://www.amazon.fr/dp/B0D7MNX9Y5
+2025-03-16 18:12:42,913 - INFO - Produit : Nom inconnu, Prix : 99.0, URL : https://www.amazon.fr/dp/B0935JRJ59
+2025-03-16 18:12:42,915 - INFO - Produit : Nom inconnu, Prix : None, URL : https://www.amazon.fr/dp/B0DGHWD7CT
+2025-03-16 18:12:42,915 - WARNING - \u26a0\ufe0f Prix invalide pour Nom inconnu : None
+2025-03-16 18:12:42,915 - INFO - Produit : Nom inconnu, Prix : 10.0, URL : https://www.amazon.fr/dp/B00I3P3BRS
+2025-03-16 18:12:42,917 - INFO - Produit : Assassin's Creed Shadows Limited Edition FRA PS5, Prix : 69.0, URL : https://www.amazon.fr/dp/B0D483QWN9
+2025-03-16 18:13:11,050 - INFO - Traitement du lot 3 (URLs 100 à 150)...
+2025-03-16 18:13:21,095 - INFO - Résultats du scraping : 50 produits trouvés.
+2025-03-16 18:13:21,095 - INFO - Produit : Carte Cadeau Roblox - 800 Robux (article virtuel exclusif inclus] (Code digital pour ordinateur, téléphone, tablette, Xbox One, Xbox Series X|S, Oculus Rift et HTC Vive), Prix : 10.0, URL : https://www.amazon.fr/dp/B081KHDDQQ
+2025-03-16 18:13:21,098 - INFO - Produit : EA SPORTS FC 25 Standard Edition Switch | Jeu Vidéo | Français, Prix : 24.0, URL : https://www.amazon.fr/dp/B0D9899XQC
+2025-03-16 18:13:21,101 - INFO - Produit : SanDisk 128 Go, microSDXC, USH-I Carte, pour les consoles Nintendo Switch, jusqu'à 100 Mo/s Produit sous licence Nintendo, UHS-I, Class 10, U3, Prix : 16.0, URL : https://www.amazon.fr/dp/B07KXQX3S3
+2025-03-16 18:13:21,103 - INFO - Produit : Nom inconnu, Prix : None, URL : https://www.amazon.fr/dp/B07GS6ZB7T
+2025-03-16 18:13:21,103 - WARNING - \u26a0\ufe0f Prix invalide pour Nom inconnu : None
+2025-03-16 18:13:21,104 - INFO - Produit : Nom inconnu, Prix : 49.0, URL : https://www.amazon.fr/dp/B0DLH7JGYQ
+2025-03-16 18:13:21,106 - INFO - Produit : Playstation DualSenseWireless-Controller - Midnight Black 5, Prix : 69.0, URL : https://www.amazon.fr/dp/B094WLFGD3
+2025-03-16 18:13:21,109 - INFO - Produit : Nom inconnu, Prix : 16.0, URL : https://www.amazon.fr/dp/B00LN803LE
+2025-03-16 18:13:21,111 - INFO - Produit : Nom inconnu, Prix : None, URL : https://www.amazon.fr/dp/B07D3ZW98F
+2025-03-16 18:13:21,111 - WARNING - \u26a0\ufe0f Prix invalide pour Nom inconnu : None
+2025-03-16 18:13:21,111 - INFO - Produit : Nom inconnu, Prix : None, URL : https://www.amazon.fr/dp/B0186L0UIG
+2025-03-16 18:13:21,111 - WARNING - \u26a0\ufe0f Prix invalide pour Nom inconnu : None
+2025-03-16 18:13:21,111 - INFO - Produit : Nom inconnu, Prix : None, URL : https://www.amazon.fr/dp/B081KHWHP4
+2025-03-16 18:13:21,111 - WARNING - \u26a0\ufe0f Prix invalide pour Nom inconnu : None
+2025-03-16 18:13:21,111 - INFO - Produit : Nom inconnu, Prix : 6.0, URL : https://www.amazon.fr/dp/B09LPXJ3RX
+2025-03-16 18:13:21,114 - INFO - Produit : Nom inconnu, Prix : 69.0, URL : https://www.amazon.fr/dp/B0D481FQS1
+2025-03-16 18:13:21,116 - INFO - Produit : Mario Kart 8 Deluxe, Prix : 44.0, URL : https://www.amazon.fr/dp/B01N223WHL
+2025-03-16 18:13:21,119 - INFO - Produit : Nom inconnu, Prix : 23.0, URL : https://www.amazon.fr/dp/B07QD6R5L7
+2025-03-16 18:13:21,122 - INFO - Produit : Suikoden 1 & 2 HD Remaster: Day 1 - Switch, Prix : 49.0, URL : https://www.amazon.fr/dp/B0DFHM1SMF
+2025-03-16 18:13:21,124 - INFO - Produit : Nom inconnu, Prix : 44.0, URL : https://www.amazon.fr/dp/B0D7HSJ4NZ
+2025-03-16 18:13:21,127 - INFO - Produit : Nom inconnu, Prix : 55.0, URL : https://www.amazon.fr/dp/B087VLP2RT
+2025-03-16 18:13:21,129 - INFO - Produit : Nom inconnu, Prix : 33.0, URL : https://www.amazon.fr/dp/B0CZXWZY4L
+2025-03-16 18:13:21,132 - INFO - Produit : Nom inconnu, Prix : 10.0, URL : https://www.amazon.fr/dp/B09FFCGLHK
+2025-03-16 18:13:21,134 - INFO - Produit : Nom inconnu, Prix : 24.0, URL : https://www.amazon.fr/dp/B09C1BQ1YX
+2025-03-16 18:13:21,137 - INFO - Produit : Nom inconnu, Prix : None, URL : https://www.amazon.fr/dp/B0BHDDH5W1
+2025-03-16 18:13:21,137 - WARNING - \u26a0\ufe0f Prix invalide pour Nom inconnu : None
+2025-03-16 18:13:21,137 - INFO - Produit : Nom inconnu, Prix : 49.0, URL : https://www.amazon.fr/dp/B0DQ5WMN4H
+2025-03-16 18:13:21,140 - INFO - Produit : Nom inconnu, Prix : 24.0, URL : https://www.amazon.fr/dp/B0DHRWNMV2
+2025-03-16 18:13:21,142 - INFO - Produit : Nom inconnu, Prix : 44.0, URL : https://www.amazon.fr/dp/B0D7HT64CG
+2025-03-16 18:13:21,144 - INFO - Produit : Nom inconnu, Prix : 69.0, URL : https://www.amazon.fr/dp/B07W7LNTM5
+2025-03-16 18:13:21,147 - INFO - Produit : Xbox Manette sans Fil - Carbon Black Pour Xbox Series X, Xbox Series S, Xbox One, Windows 10 & 11, Android et iOS, Prix : 59.0, URL : https://www.amazon.fr/dp/B07SDFLVKD
+2025-03-16 18:13:21,150 - INFO - Produit : Nom inconnu, Prix : 69.0, URL : https://www.amazon.fr/dp/B0C3BSZ56D
+2025-03-16 18:13:21,152 - INFO - Produit : Nom inconnu, Prix : 9.0, URL : https://www.amazon.fr/dp/B0753CZ8MC
+2025-03-16 18:13:21,155 - INFO - Produit : Nom inconnu, Prix : 719.0, URL : https://www.amazon.fr/dp/B0DXR5S968
+2025-03-16 18:13:21,157 - INFO - Produit : Nom inconnu, Prix : 890.0, URL : https://www.amazon.fr/dp/B0DGJ2N566
+2025-03-16 18:13:21,159 - INFO - Produit : Apple iPhone 16 Plus (128 Go) - Rose, Prix : None, URL : https://www.amazon.fr/dp/B0DGHQW185
+2025-03-16 18:13:21,160 - WARNING - \u26a0\ufe0f Prix invalide pour Apple iPhone 16 Plus (128 Go) - Rose : None
+2025-03-16 18:13:21,160 - INFO - Produit : Nom inconnu, Prix : 719.0, URL : https://www.amazon.fr/dp/B0DXQQ65T2
+2025-03-16 18:13:21,162 - INFO - Produit : Nom inconnu, Prix : None, URL : https://www.amazon.fr/dp/B0CHXFCYCR
+2025-03-16 18:13:21,162 - WARNING - \u26a0\ufe0f Prix invalide pour Nom inconnu : None
+2025-03-16 18:13:21,162 - INFO - Produit : Nom inconnu, Prix : 319.0, URL : https://www.amazon.fr/dp/B09MJVJM9Y
+2025-03-16 18:13:21,164 - INFO - Produit : Nom inconnu, Prix : 199.0, URL : https://www.amazon.fr/dp/B082P6M3HC
+2025-03-16 18:13:21,166 - INFO - Produit : Nom inconnu, Prix : 738.0, URL : https://www.amazon.fr/dp/B0CHXFCYCR
+2025-03-16 18:13:21,168 - INFO - Produit : Nom inconnu, Prix : None, URL : https://www.amazon.fr/dp/B0DXQHWYDB
+2025-03-16 18:13:21,168 - WARNING - \u26a0\ufe0f Prix invalide pour Nom inconnu : None
+2025-03-16 18:13:21,168 - INFO - Produit : iPhone 16e 128 Go : Conçu pour Apple Intelligence, Puce A18, Autonomie de Taille, Caméra Fusion 48 Mpx, Écran Super Retina XDR de 6,1 Pouces; Blanc, Prix : 719.0, URL : https://www.amazon.fr/dp/B0DXQQ65T2
+2025-03-16 18:13:21,169 - INFO - Produit : Nom inconnu, Prix : 719.0, URL : https://www.amazon.fr/dp/B0DXR5S968
+2025-03-16 18:13:21,169 - INFO - Produit : Apple iPhone 12 mini, 64Go, Bleu - (Reconditionné), Prix : 205.0, URL : https://www.amazon.fr/dp/B08PCD1417
+2025-03-16 18:13:21,171 - INFO - Produit : Nom inconnu, Prix : 244.0, URL : https://www.amazon.fr/dp/B08PCFVC58
+2025-03-16 18:13:21,173 - INFO - Produit : Apple iPhone 15 128Go - Noir (Reconditionné), Prix : 539.0, URL : https://www.amazon.fr/dp/B0CVJ23L79
+2025-03-16 18:13:21,176 - INFO - Produit : Nom inconnu, Prix : 719.0, URL : https://www.amazon.fr/dp/B0DXR5S968
+2025-03-16 18:13:21,176 - INFO - Produit : Nom inconnu, Prix : 182.0, URL : https://www.amazon.fr/dp/B07N9HM3ZR
+2025-03-16 18:13:21,178 - INFO - Produit : Nom inconnu, Prix : 419.0, URL : https://www.amazon.fr/dp/B0BNLXTK3P
+2025-03-16 18:13:21,181 - INFO - Produit : Apple iPhone 13 Mini, 128Go, Minuit - (Reconditionné), Prix : 289.0, URL : https://www.amazon.fr/dp/B09MJSRKWK
+2025-03-16 18:13:21,184 - INFO - Produit : Nom inconnu, Prix : 559.0, URL : https://www.amazon.fr/dp/B0BNLZSY18
+2025-03-16 18:13:21,186 - INFO - Produit : Apple iPhone XR 64Go - Noir - Débloqué (Reconditionné), Prix : 159.0, URL : https://www.amazon.fr/dp/B07N9FFY52
+2025-03-16 18:13:21,189 - INFO - Produit : Nom inconnu, Prix : 155.0, URL : https://www.amazon.fr/dp/B08D351RSN
+2025-03-16 18:13:21,191 - INFO - Produit : Nom inconnu, Prix : 350.0, URL : https://www.amazon.fr/dp/B08PCC2Y59
+2025-03-16 18:13:46,067 - INFO - Traitement du lot 4 (URLs 150 à 200)...
+2025-03-16 18:13:56,505 - INFO - Résultats du scraping : 50 produits trouvés.
+2025-03-16 18:13:56,505 - INFO - Produit : Nom inconnu, Prix : 502.0, URL : https://www.amazon.fr/dp/B09G9HWQYT
+2025-03-16 18:13:56,507 - INFO - Produit : Nom inconnu, Prix : 689.0, URL : https://www.amazon.fr/dp/B0BDJH7J5C
+2025-03-16 18:13:56,510 - INFO - Produit : Nom inconnu, Prix : 409.0, URL : https://www.amazon.fr/dp/B09MJT5DY3
+2025-03-16 18:13:56,513 - INFO - Produit : Nom inconnu, Prix : 890.0, URL : https://www.amazon.fr/dp/B0DGHN3YNR
+2025-03-16 18:13:56,516 - INFO - Produit : Nom inconnu, Prix : 243.0, URL : https://www.amazon.fr/dp/B0BGFNF6W7
+2025-03-16 18:13:56,519 - INFO - Produit : Nom inconnu, Prix : None, URL : https://www.amazon.fr/dp/B0DGHH9JY3
+2025-03-16 18:13:56,519 - WARNING - \u26a0\ufe0f Prix invalide pour Nom inconnu : None
+2025-03-16 18:13:56,519 - INFO - Produit : Apple iPhone 11 128Go - Noir - Débloqué (Reconditionné), Prix : 205.0, URL : https://www.amazon.fr/dp/B082DNFBZP
+2025-03-16 18:13:56,522 - INFO - Produit : Nom inconnu, Prix : 489.0, URL : https://www.amazon.fr/dp/B09MJTW89Y
+2025-03-16 18:13:56,524 - INFO - Produit : Nom inconnu, Prix : None, URL : https://www.amazon.fr/dp/B0DGHSG5D2
+2025-03-16 18:13:56,524 - WARNING - \u26a0\ufe0f Prix invalide pour Nom inconnu : None
+2025-03-16 18:13:56,524 - INFO - Produit : Nom inconnu, Prix : 706.0, URL : https://www.amazon.fr/dp/B0CVJ7H584
+2025-03-16 18:13:56,527 - INFO - Produit : Nom inconnu, Prix : 865.0, URL : https://www.amazon.fr/dp/B0CHX3ZTJQ
+2025-03-16 18:13:56,529 - INFO - Produit : Apple iPhone 11 64GB Blanc (Reconditionné), Prix : 185.0, URL : https://www.amazon.fr/dp/B082DK377L
+2025-03-16 18:13:56,532 - INFO - Produit : Nom inconnu, Prix : 434.0, URL : https://www.amazon.fr/dp/B09MGCPYFZ
+2025-03-16 18:13:56,534 - INFO - Produit : Nom inconnu, Prix : None, URL : https://www.amazon.fr/dp/B07N9HM3Z4
+2025-03-16 18:13:56,534 - WARNING - \u26a0\ufe0f Prix invalide pour Nom inconnu : None
+2025-03-16 18:13:56,534 - INFO - Produit : Nom inconnu, Prix : None, URL : https://www.amazon.fr/dp/B0DGHQW185
+2025-03-16 18:13:56,534 - WARNING - \u26a0\ufe0f Prix invalide pour Nom inconnu : None
+2025-03-16 18:13:56,534 - INFO - Produit : Apple iPhone 14 Plus, 128 Go - Violet - (Reconditionné), Prix : 463.0, URL : https://www.amazon.fr/dp/B0BNMC7723
+2025-03-16 18:13:56,536 - INFO - Produit : Nom inconnu, Prix : 289.0, URL : https://www.amazon.fr/dp/B09MJTBN9X
+2025-03-16 18:13:56,541 - INFO - Produit : Apple iPhone 11 128GB Blanc (Reconditionné), Prix : 219.0, URL : https://www.amazon.fr/dp/B081YJ672T
+2025-03-16 18:13:56,542 - INFO - Produit : Nom inconnu, Prix : 279.0, URL : https://www.amazon.fr/dp/B09MJSNHXY
+2025-03-16 18:13:56,545 - INFO - Produit : Nom inconnu, Prix : 110.0, URL : https://www.amazon.fr/dp/B074KL8RMS
+2025-03-16 18:13:56,548 - INFO - Produit : Apple iPhone Se 32GB NFC LTE Compact Gris Sidéral (Reconditionné), Prix : 99.0, URL : https://www.amazon.fr/dp/B082L2HQ1T
+2025-03-16 18:13:56,550 - INFO - Produit : Apple iPhone 14 Pro Max, 128 Go, Deep Purple (Reconditionné), Prix : 653.0, URL : https://www.amazon.fr/dp/B0BNM1M33W
+2025-03-16 18:13:56,553 - INFO - Produit : Apple iPhone 13 Pro, 128 Go - Vert Alpin - (Reconditionné), Prix : 409.0, URL : https://www.amazon.fr/dp/B0BBPFDTNZ
+2025-03-16 18:13:56,555 - INFO - Produit : Nom inconnu, Prix : 359.0, URL : https://www.amazon.fr/dp/B09ML7TSMC
+2025-03-16 18:13:56,557 - INFO - Produit : Nom inconnu, Prix : 159.0, URL : https://www.amazon.fr/dp/B08D377VBX
+2025-03-16 18:13:56,560 - INFO - Produit : Nom inconnu, Prix : 484.0, URL : https://www.amazon.fr/dp/B08PCD1YDK
+2025-03-16 18:13:56,562 - INFO - Produit : Nom inconnu, Prix : 839.0, URL : https://www.amazon.fr/dp/B0CVJ2RLP5
+2025-03-16 18:13:56,565 - INFO - Produit : Nom inconnu, Prix : None, URL : https://www.amazon.fr/dp/B0CVJT3MH6
+2025-03-16 18:13:56,565 - WARNING - \u26a0\ufe0f Prix invalide pour Nom inconnu : None
+2025-03-16 18:13:56,565 - INFO - Produit : Nom inconnu, Prix : 214.0, URL : https://www.amazon.fr/dp/B082DN72G3
+2025-03-16 18:13:56,567 - INFO - Produit : Nom inconnu, Prix : 223.0, URL : https://www.amazon.fr/dp/B081YJH3SW
+2025-03-16 18:13:56,570 - INFO - Produit : Apple iPhone 11 Pro 64Go Gris Sidéral (Reconditionné), Prix : 229.0, URL : https://www.amazon.fr/dp/B082DK7PK2
+2025-03-16 18:13:56,572 - INFO - Produit : Nom inconnu, Prix : 650.0, URL : https://www.amazon.fr/dp/B0CVJ5FCK9
+2025-03-16 18:13:56,574 - INFO - Produit : Nom inconnu, Prix : 469.0, URL : https://www.amazon.fr/dp/B0BBP48ZTY
+2025-03-16 18:13:56,577 - INFO - Produit : Nom inconnu, Prix : 234.0, URL : https://www.amazon.fr/dp/B082DN7RVM
+2025-03-16 18:13:56,579 - INFO - Produit : HP 305 Pack de 2 Cartouches d'Encre, Noire et Trois Couleurs, Prix : 24.0, URL : https://www.amazon.fr/dp/B08T1HR5CS
+2025-03-16 18:13:56,581 - INFO - Produit : Nom inconnu, Prix : None, URL : https://www.amazon.fr/dp/B087DJ43K3
+2025-03-16 18:13:56,582 - WARNING - \u26a0\ufe0f Prix invalide pour Nom inconnu : None
+2025-03-16 18:13:56,582 - INFO - Produit : Nom inconnu, Prix : 15.0, URL : https://www.amazon.fr/dp/B0B7NTY2S6
+2025-03-16 18:13:56,584 - INFO - Produit : Nom inconnu, Prix : 37.0, URL : https://www.amazon.fr/dp/B01LXLFF6H
+2025-03-16 18:13:56,586 - INFO - Produit : Nom inconnu, Prix : 39.0, URL : https://www.amazon.fr/dp/B0DZC56C2D
+2025-03-16 18:13:56,589 - INFO - Produit : Nom inconnu, Prix : 21.0, URL : https://www.amazon.fr/dp/B087DH9GT3
+2025-03-16 18:13:56,591 - INFO - Produit : HP 302 Cartouche d'Encre Noire Authentique (F6U66AE) Standard, Prix : 18.0, URL : https://www.amazon.fr/dp/B00VYAWIRS
+2025-03-16 18:13:56,593 - INFO - Produit : HP 301 Pack de 2 Cartouches d'Encre Noire et Trois Couleurs Authentiques (N9J72AE),Cyan/Magenta/Jaune/Noir, Prix : 39.0, URL : https://www.amazon.fr/dp/B01AGGJ44K
+2025-03-16 18:13:56,596 - INFO - Produit : Nom inconnu, Prix : 14.0, URL : https://www.amazon.fr/dp/B01EA0EG3W
+2025-03-16 18:13:56,599 - INFO - Produit : Nom inconnu, Prix : 9.0, URL : https://www.amazon.fr/dp/B08XZ2KS1F
+2025-03-16 18:13:56,601 - INFO - Produit : Canon Pack Encre & Papier - PG-540/CL-541 Cartouches d'encre Authentiques pour imprimante - 2 Packs (1 x Noir, 1 x Couleur) & Papier Photo 4x6 (50 x Feuilles), Prix : 46.0, URL : https://www.amazon.fr/dp/B0CH8H25T8
+2025-03-16 18:13:56,603 - INFO - Produit : Nom inconnu, Prix : 21.0, URL : https://www.amazon.fr/dp/B0B7NV73PJ
+2025-03-16 18:13:56,606 - INFO - Produit : Nom inconnu, Prix : 44.0, URL : https://www.amazon.fr/dp/B01ARRTHUE
+2025-03-16 18:13:56,609 - INFO - Produit : Nom inconnu, Prix : 11.0, URL : https://www.amazon.fr/dp/B085SFP8ZY
+2025-03-16 18:13:56,611 - INFO - Produit : Nom inconnu, Prix : None, URL : https://www.amazon.fr/dp/B09X7FXHVJ
+2025-03-16 18:13:56,611 - WARNING - \u26a0\ufe0f Prix invalide pour Nom inconnu : None
+2025-03-16 18:13:56,611 - INFO - Produit : Nom inconnu, Prix : 19.0, URL : https://www.amazon.fr/dp/B087DGWYNS
+2025-03-16 18:14:21,464 - INFO - Traitement du lot 5 (URLs 200 à 250)...
+2025-03-16 18:14:26,664 - INFO - Résultats du scraping : 14 produits trouvés.
+2025-03-16 18:14:26,665 - INFO - Produit : Nom inconnu, Prix : 29.0, URL : https://www.amazon.fr/dp/B08X19VZN8
+2025-03-16 18:14:26,668 - INFO - Produit : Nom inconnu, Prix : 19.0, URL : https://www.amazon.fr/dp/B003LNLPQ6
+2025-03-16 18:14:26,671 - INFO - Produit : Nom inconnu, Prix : None, URL : https://www.amazon.fr/dp/B015CH1PJU
+2025-03-16 18:14:26,671 - WARNING - \u26a0\ufe0f Prix invalide pour Nom inconnu : None
+2025-03-16 18:14:26,671 - INFO - Produit : Nom inconnu, Prix : 36.0, URL : https://www.amazon.fr/dp/B07VVSTH27
+2025-03-16 18:14:26,674 - INFO - Produit : Nom inconnu, Prix : 17.0, URL : https://www.amazon.fr/dp/B00ET2LU2M
+2025-03-16 18:14:26,676 - INFO - Produit : Nom inconnu, Prix : 32.0, URL : https://www.amazon.fr/dp/B0CLTPMQZD
+2025-03-16 18:14:26,678 - INFO - Produit : TP-Link Clé WiFi Puissante AC1300 Mbps, adaptateur USB wifi, dongle wifi, USB 3.0 Double Bande, 2.4G / 5GHz, MU-MIMO, compatible avec Windows 11/10/8.1/8/7/XP, Mac OS X, Archer T3U, Prix : 15.0, URL : https://www.amazon.fr/dp/B07M69276N
+2025-03-16 18:14:26,681 - INFO - Produit : Nom inconnu, Prix : 20.0, URL : https://www.amazon.fr/dp/B09MDJ2B2S
+2025-03-16 18:14:26,683 - INFO - Produit : Nom inconnu, Prix : 32.0, URL : https://www.amazon.fr/dp/B00HQE9NM4
+2025-03-16 18:14:26,686 - INFO - Produit : Nom inconnu, Prix : 49.0, URL : https://www.amazon.fr/dp/B0CFG1PB4P
+2025-03-16 18:14:26,689 - INFO - Produit : Nom inconnu, Prix : 5.0, URL : https://www.amazon.fr/dp/B07L9BDY3T
+2025-03-16 18:14:26,692 - INFO - Produit : Nom inconnu, Prix : 23.0, URL : https://www.amazon.fr/dp/B00ET01FR4
+2025-03-16 18:14:26,694 - INFO - Produit : Nom inconnu, Prix : 7.0, URL : https://www.amazon.fr/dp/B09MRQ29N9
+2025-03-16 18:14:26,697 - INFO - Produit : Nom inconnu, Prix : None, URL : https://www.amazon.fr/dp/B074574XPT
+2025-03-16 18:14:26,697 - WARNING - \u26a0\ufe0f Prix invalide pour Nom inconnu : None
+2025-03-16 18:14:42,509 - INFO - Cycle terminé. Attente avant le prochain cycle...
+2025-03-16 18:23:23,201 - INFO - HTTP Request: POST https://api.telegram.org/bot7958635611:AAEEUr5m0gNoSjMPhTDeNf-td3exhK4AVYs/sendMessage "HTTP/1.1 200 OK"
+2025-03-16 18:23:23,202 - INFO - Message Telegram envoyé avec succès.
+2025-03-16 18:23:23,202 - INFO - Démarrage du bot...
+2025-03-16 18:23:23,204 - INFO - Génération des URLs...
+2025-03-16 18:23:23,204 - INFO - 11 catégories trouvées.
+2025-03-16 18:23:23,204 - INFO - Scraping de la catégorie : https://www.amazon.fr/gp/bestsellers/pc-gaming
+2025-03-16 18:23:23,448 - INFO - 0 ASINs trouvés dans https://www.amazon.fr/gp/bestsellers/pc-gaming.
+2025-03-16 18:23:23,449 - INFO - Scraping de la catégorie : https://www.amazon.fr/s?k=samsung
+2025-03-16 18:23:24,814 - INFO - 68 ASINs trouvés dans https://www.amazon.fr/s?k=samsung.
+2025-03-16 18:23:24,815 - INFO - Scraping de la catégorie : https://www.amazon.fr/gp/bestsellers/tv-hifi
+2025-03-16 18:23:25,021 - INFO - 0 ASINs trouvés dans https://www.amazon.fr/gp/bestsellers/tv-hifi.
+2025-03-16 18:23:25,021 - INFO - Scraping de la catégorie : https://www.amazon.fr/gp/bestsellers/videogames
+2025-03-16 18:23:25,704 - INFO - 30 ASINs trouvés dans https://www.amazon.fr/gp/bestsellers/videogames.
+2025-03-16 18:23:25,704 - INFO - Scraping de la catégorie : https://www.amazon.fr/gp/bestsellers/laptops
+2025-03-16 18:23:25,902 - INFO - 0 ASINs trouvés dans https://www.amazon.fr/gp/bestsellers/laptops.
+2025-03-16 18:23:25,902 - INFO - Scraping de la catégorie : https://www.amazon.fr/s?k=iphone
+2025-03-16 18:23:26,890 - INFO - 56 ASINs trouvés dans https://www.amazon.fr/s?k=iphone.
+2025-03-16 18:23:26,891 - INFO - Scraping de la catégorie : https://www.amazon.fr/gp/bestsellers/phones
+2025-03-16 18:23:27,108 - INFO - 0 ASINs trouvés dans https://www.amazon.fr/gp/bestsellers/phones.
+2025-03-16 18:23:27,108 - INFO - Scraping de la catégorie : https://www.amazon.fr/gp/bestsellers/pc
+2025-03-16 18:23:27,317 - INFO - 0 ASINs trouvés dans https://www.amazon.fr/gp/bestsellers/pc.
+2025-03-16 18:23:27,317 - INFO - Scraping de la catégorie : https://www.amazon.fr/gp/bestsellers/console-gaming
+2025-03-16 18:23:27,536 - INFO - 0 ASINs trouvés dans https://www.amazon.fr/gp/bestsellers/console-gaming.
+2025-03-16 18:23:27,536 - INFO - Scraping de la catégorie : https://www.amazon.fr/gp/bestsellers/electronics
+2025-03-16 18:23:28,216 - INFO - 30 ASINs trouvés dans https://www.amazon.fr/gp/bestsellers/electronics.
+2025-03-16 18:23:28,216 - INFO - Scraping de la catégorie : https://www.amazon.fr/gp/bestsellers/computers
+2025-03-16 18:23:29,126 - INFO - 30 ASINs trouvés dans https://www.amazon.fr/gp/bestsellers/computers.
+2025-03-16 18:23:29,127 - INFO - 214 URLs générées.
+2025-03-16 18:23:29,127 - INFO - Traitement du lot 1 (URLs 0 à 50)...
+2025-03-16 18:23:40,988 - INFO - Résultats du scraping : 50 produits trouvés.
+2025-03-16 18:23:40,988 - INFO - Produit : Samsung Galaxy Book4 Pro Ordinateur portable 14'', Intel Evo Edition – Intel Core Ultra 5, 125H 16Go RAM 512Go SSD Intel ARC Graphics, Gris anthracite, clavier AZERTY FR, Prix : None, URL : https://www.amazon.fr/dp/B0CTTV7BJ6
+2025-03-16 18:23:40,989 - WARNING - \u26a0\ufe0f Prix invalide pour Samsung Galaxy Book4 Pro Ordinateur portable 14'', Intel Evo Edition – Intel Core Ultra 5, 125H 16Go RAM 512Go SSD Intel ARC Graphics, Gris anthracite, clavier AZERTY FR : None
+2025-03-16 18:23:40,989 - INFO - Produit : Samsung Galaxy Book4 360 Ordinateur portable 15.6'', Intel Evo Platform – Intel Core Ultra 7, 16Go RAM 512Go SSD Intel Graphics, Argent, clavier AZERTY FR, Prix : None, URL : https://www.amazon.fr/dp/B0CTTSBC1F
+2025-03-16 18:23:40,989 - WARNING - \u26a0\ufe0f Prix invalide pour Samsung Galaxy Book4 360 Ordinateur portable 15.6'', Intel Evo Platform – Intel Core Ultra 7, 16Go RAM 512Go SSD Intel Graphics, Argent, clavier AZERTY FR : None
+2025-03-16 18:23:40,989 - INFO - Produit : Samsung Galaxy Book4 Ultra Ordinateur portable 16'', Intel Evo Edition – Intel Core Ultra 9, 32Go RAM 1 TERA SSD NVIDIA GeForce RTX, Gris Anthracite, Clavier AZERTY FR, Prix : None, URL : https://www.amazon.fr/dp/B0CTTXHHGR
+2025-03-16 18:23:40,989 - WARNING - \u26a0\ufe0f Prix invalide pour Samsung Galaxy Book4 Ultra Ordinateur portable 16'', Intel Evo Edition – Intel Core Ultra 9, 32Go RAM 1 TERA SSD NVIDIA GeForce RTX, Gris Anthracite, Clavier AZERTY FR : None
+2025-03-16 18:23:40,989 - INFO - Produit : SAMSUNG Galaxy A05s 4GB+64GB [Version Internationale] (Noir), Prix : 116.0, URL : https://www.amazon.fr/dp/B0CQJY9JYT
+2025-03-16 18:23:40,994 - INFO - Produit : Samsung Galaxy A06 4GB+64GB [Version Internationale] (Noir), Prix : 97.0, URL : https://www.amazon.fr/dp/B0DDKLRFVV
+2025-03-16 18:23:40,997 - INFO - Produit : Samsung Galaxy A16 4GB+128GB [Version Internationale] (Bleu Nuit), Prix : 143.0, URL : https://www.amazon.fr/dp/B0DM1S54MZ
+2025-03-16 18:23:40,999 - INFO - Produit : Samsung SM-A057 Galaxy A05s Dual SIM 4GB RAM 128GB Silver EU, Prix : 129.0, URL : https://www.amazon.fr/dp/B0CN12J4Y2
+2025-03-16 18:23:41,002 - INFO - Produit : Samsung SM-A155F Galaxy A15 Dual SIM 4GB RAM 128GB Blue Black EU, Prix : 166.0, URL : https://www.amazon.fr/dp/B0CNKT2D1G
+2025-03-16 18:23:41,004 - INFO - Produit : UMIDIGI G9C Android 14 NFC Telephone Portable(2024),12(6+6)+128GB,50MP+8MP,BT 5.4,Processeur MediaTek Helio G36,5000mAh,90Hz Écran 6.75” Smartphone Débloqué,4G Doble SIM/ID Faciale/GPS/OTG-Noir, Prix : 127.0, URL : https://www.amazon.fr/dp/B0D5CQT349
+2025-03-16 18:23:41,007 - INFO - Produit : DOOGEE Blade10 Téléphone Portable Incassable 6,56" 90Hz, 9Go+128Go /TF 2To Android 14 Smartphone Incassable, 16MP+8MP 5150mAh, Telephone Incassable 4G SIM/Face ID/IP68/IP69K, Ultra Mince de 11mm, Noir, Prix : 119.0, URL : https://www.amazon.fr/dp/B0D966PSRF
+2025-03-16 18:23:41,010 - INFO - Produit : Ulefone Note 18 Pro Téléphone Portable, 12Go+256Go/TF-2TB, Smartphone Android 14, Caméra 64MP+50MP+32MP, Écran 6.78" HD+, 5450mAh 18W Charge Rapide, 4G Dual SIM/NFC/GPS/OTG/2Ans Garantie Noir, Prix : 149.0, URL : https://www.amazon.fr/dp/B0DN5XZ19W
+2025-03-16 18:23:41,012 - INFO - Produit : Samsung Galaxy A16 LTE 128 Go/4 Go de RAM, Double SIM, Bleu/Noir, Prix : 138.0, URL : https://www.amazon.fr/dp/B0DKTJ22QN
+2025-03-16 18:23:41,015 - INFO - Produit : Sam Galaxy A34 5G EU-128-6-5G-gy EU 128GB/6GB Graphite, Prix : 207.0, URL : https://www.amazon.fr/dp/B0BWS9WQDY
+2025-03-16 18:23:41,017 - INFO - Produit : Samsung Galaxy A16 5G Smartphone 128 GB Mitternachtsblau, Prix : 169.0, URL : https://www.amazon.fr/dp/B0DP5PBR93
+2025-03-16 18:23:41,020 - INFO - Produit : Samsung SM-A057 Galaxy A05s Dual SIM 4GB RAM 128GB Black EU, Prix : 119.0, URL : https://www.amazon.fr/dp/B0CN13F65C
+2025-03-16 18:23:41,022 - INFO - Produit : Samsung Galaxy A15 4G Smartphone 128 Go Bleu nuit, Prix : 172.0, URL : https://www.amazon.fr/dp/B0CR77BGWB
+2025-03-16 18:23:41,025 - INFO - Produit : Samsung A256B Galaxy A25 5G 256 Go/8 Go RAM Dual SIM Noir, Prix : 236.0, URL : https://www.amazon.fr/dp/B0CN12K224
+2025-03-16 18:23:41,027 - INFO - Produit : Galaxy A20e (dual sim) 32 Go - Noir (Reconditionné), Prix : 140.0, URL : https://www.amazon.fr/dp/B07XBRWL91
+2025-03-16 18:23:41,030 - WARNING - \u26a0\ufe0f Erreur détectée pour Galaxy A20e (dual sim) 32 Go - Noir (Reconditionné) : Inflation soudaine détectée (164.71%)
+2025-03-16 18:23:41,314 - INFO - HTTP Request: POST https://api.telegram.org/bot7958635611:AAEEUr5m0gNoSjMPhTDeNf-td3exhK4AVYs/sendMessage "HTTP/1.1 200 OK"
+2025-03-16 18:23:41,314 - INFO - Message Telegram envoyé avec succès.
+2025-03-16 18:23:41,314 - INFO - Produit : SAMSUNG Galaxy A15 4GB+128GB (Bleu Nuit), Prix : 172.0, URL : https://www.amazon.fr/dp/B0CQ5C2274
+2025-03-16 18:23:41,316 - INFO - Produit : Samsung Galaxy A16 5G A166 Dual Sim 4GB RAM 128GB - Light Green, Prix : 166.0, URL : https://www.amazon.fr/dp/B0DJ114V4B
+2025-03-16 18:23:41,319 - INFO - Produit : Samsung SM-A166 A16 4+128GB 6.7" Blue Black DS 5G ITA, Prix : 162.0, URL : https://www.amazon.fr/dp/B0DHZZ67HX
+2025-03-16 18:23:41,322 - INFO - Produit : Smartphone Galaxy A54 5G 8Gb 128Gb Noir, Prix : 272.0, URL : https://www.amazon.fr/dp/B0BYMPCWHN
+2025-03-16 18:23:41,325 - INFO - Produit : Samsung Galaxy A06 4GB+128GB [Version Internationale] (Noir), Prix : 119.0, URL : https://www.amazon.fr/dp/B0DHLCDJNR
+2025-03-16 18:23:41,328 - INFO - Produit : Samsung Galaxy A16 5G 128GB/4GB Dual SIM Cinza Claro, Prix : 158.0, URL : https://www.amazon.fr/dp/B0DJ12W1ZJ
+2025-03-16 18:23:41,331 - INFO - Produit : ZTOFERA Coque Arrière en Silicone Liquide pour Samsung Galaxy A55 5G, Mignon Boucle Ondulée Cadre Marguerite Motif Cas Souple Antichoc Protection Bumper Cover pour Samsung A55 - Beige, Prix : 10.0, URL : https://www.amazon.fr/dp/B0CWP9QL71
+2025-03-16 18:23:41,334 - INFO - Produit : WATACHE Conçu pour Samsung Galaxy Z Flip 4 Case 5 G 2022 Case Clear with Ring, Housse de Protection Anti-Chocs Anti-Chute pour téléphone (Violet), Prix : 13.0, URL : https://www.amazon.fr/dp/B0B8MTF2SC
+2025-03-16 18:23:41,337 - INFO - Produit : MLOTECH Coque pour Samsung S20 Plus,étui+Protection Écran [2 Pièces] Flip Clear View Translucide Miroir Standing 360°Housse Antichoc Smart Cover Bumper Or Rose, Prix : 11.0, URL : https://www.amazon.fr/dp/B084ZCSG22
+2025-03-16 18:23:41,340 - INFO - Produit : Samsung Galaxy S9 64 Go (Single SIM) - Noir - Android 8.0 (Version IT Opérateur) (Reconditionné) ), Prix : 89.0, URL : https://www.amazon.fr/dp/B07NS5QPJM
+2025-03-16 18:23:41,343 - INFO - Produit : Samsung tel - Smartphone 5g 6.5" 8+128GB A55 Bleu Clair sm-a556blbaeue - 1286791, Prix : 335.0, URL : https://www.amazon.fr/dp/B0CYM3BRGG
+2025-03-16 18:23:41,347 - INFO - Produit : Samsung Galaxy A35 128GB 6RAM 5G EU Black, Prix : 207.0, URL : https://www.amazon.fr/dp/B0CY8D7L7F
+2025-03-16 18:23:41,349 - INFO - Produit : Samsung Galaxy A15, Dual, 128GB 4GB Ram, Blue, Prix : 169.0, URL : https://www.amazon.fr/dp/B0CTH16HB8
+2025-03-16 18:23:41,352 - INFO - Produit : Samsung Galaxy SM-A057GZKU 17 cm (6.7") Double SIM Android 13 4G USB Type-C 4 Go 64 Go 5000 mAh Noir, Prix : 123.0, URL : https://www.amazon.fr/dp/B0CN137WV2
+2025-03-16 18:23:41,355 - INFO - Produit : Samsung A256B Galaxy A25 5G 128 Go/6 Go de RAM, Double SIM, Noir, Prix : 237.0, URL : https://www.amazon.fr/dp/B0CN12BMRW
+2025-03-16 18:23:41,357 - INFO - Produit : Samsung A55 SM-A556B 8+128GB DS 5G Awesome Navy OEM, Prix : 314.0, URL : https://www.amazon.fr/dp/B0CYLWTZD1
+2025-03-16 18:23:41,360 - INFO - Produit : Samsung A256B Galaxy A25 5G 256 Go/8 Go RAM Dual SIM Bleu, Prix : 258.0, URL : https://www.amazon.fr/dp/B0CN14TNHD
+2025-03-16 18:23:41,362 - INFO - Produit : Samsung SM-A057 Galaxy A05s Dual SIM 4GB RAM 128GB Silver EU, Prix : 129.0, URL : https://www.amazon.fr/dp/B0CN12J4Y2
+2025-03-16 18:23:41,365 - INFO - Produit : Samsung Galaxy A16 LTE 4/128GB Verde Claro Libre, Prix : 139.0, URL : https://www.amazon.fr/dp/B0DPHBX2Q9
+2025-03-16 18:23:41,367 - INFO - Produit : Samsung A346B Galaxy A34, All Carriers, 5G 128 GB (Awesome Graphite) ohne Simlock, ohne Branding, Prix : 223.0, URL : https://www.amazon.fr/dp/B0BYMP9KZP
+2025-03-16 18:23:41,371 - INFO - Produit : Samsung SM-A155F Galaxy A15 Dual SIM 4GB RAM 128GB Blue Black EU, Prix : 166.0, URL : https://www.amazon.fr/dp/B0CNKT2D1G
+2025-03-16 18:23:41,371 - INFO - Produit : Type-C Chargeur Rapide, pour Samsung Galaxy A16 A15 A14 A13 A12 4G/5G A06 A05S A04S A55 A54 A35 A34 A53 A33 A32 A52 A25 S24 S23 S22 S21 S20, Compatible Xiaomi, Huawei, Google etc. avec 2m Câble USB C, Prix : 8.0, URL : https://www.amazon.fr/dp/B0DKSTTQRF
+2025-03-16 18:23:41,375 - INFO - Produit : ZTOFERA Coque Arrière en Silicone Liquide pour Samsung Galaxy A15 5G/4G, Mignon Boucle Ondulée Cadre Marguerite Motif Cas Souple Antichoc Protection Bumper Cover pour Samsung A15 - Noir, Prix : 10.0, URL : https://www.amazon.fr/dp/B0CSCHS72J
+2025-03-16 18:23:41,378 - INFO - Produit : ZTOFERA Étui pour Samsung Galaxy A55, Coque Transparente en TPU Souple avec Motif Marguerite, Protection Ultra-Mince en Gel de Silicone Anti-Rayures pour Samsung A55 5G - Marguerite, Prix : 10.0, URL : https://www.amazon.fr/dp/B0CXPHY7W4
+2025-03-16 18:23:41,382 - INFO - Produit : Chargeur USB C, 20W Prise USB C 3-Pack Chargeur Rapide,Chargeur USB C Rapide pour iPhone 16 15 14 13 Plus Pro Max XS XR Samsung Galaxy iPad Huawei Xiaomi,Prise USBC Bloc Secteur Embout Adaptateur, Prix : 13.0, URL : https://www.amazon.fr/dp/B0DRNKBC4K
+2025-03-16 18:23:41,386 - INFO - Produit : Samsung A057G/DSN Galaxy A05s, Dual, 64GB 4GB Ram, Black, Prix : 116.0, URL : https://www.amazon.fr/dp/B0CNSWLBG5
+2025-03-16 18:23:41,389 - INFO - Produit : Smartphone Samsung Galaxy A14 4G 64GB Black, Prix : 161.0, URL : https://www.amazon.fr/dp/B0BYWB6R4N
+2025-03-16 18:23:41,391 - INFO - Produit : Samsung Galaxy Xcover7 Enterprise Edition, Robustes 6,6 Zoll Android Smartphone, 128 GB 6 GB, Prix : 246.0, URL : https://www.amazon.fr/dp/B0CS297MLL
+2025-03-16 18:23:41,394 - INFO - Produit : Samsung Galaxy A15 16,5 cm (6.5") Double SIM hybride Android 14 4G USB Type-C 4 Go 128 Go 5000 mAh Bleu, Schwarz, Prix : 169.0, URL : https://www.amazon.fr/dp/B0CNKT21Z5
+2025-03-16 18:23:41,396 - INFO - Produit : Samsung Galaxy A55 5G Smartphone 256GB Mitternachtsblau, Prix : 408.0, URL : https://www.amazon.fr/dp/B0CVQL3L2K
+2025-03-16 18:23:41,398 - INFO - Produit : Samsung Galaxy S24 FE Smartphone Con IA Almacenamiento 256GB Batería 4.700mAh Azul Claro, Prix : 516.0, URL : https://www.amazon.fr/dp/B0DJB442RS
+2025-03-16 18:23:41,401 - INFO - Produit : 2020 Samsung Galaxy S20 FE 5G, Dual SIM, 128 Go, Nuage Bleu Marine (Reconditionné), Prix : 175.0, URL : https://www.amazon.fr/dp/B08V1NR7CR
+2025-03-16 18:24:09,540 - INFO - Traitement du lot 2 (URLs 50 à 100)...
+2025-03-16 18:24:20,521 - INFO - Résultats du scraping : 50 produits trouvés.
+2025-03-16 18:24:20,521 - INFO - Produit : Samsung A057G/DSN Galaxy A05s, Dual, 128GB 4GB Ram, Silver, Prix : 127.0, URL : https://www.amazon.fr/dp/B0CP44JVQF
+2025-03-16 18:24:20,560 - INFO - Produit : SAMSUNG Galaxy A55 5G Smartphone 128 GB Mitternachtsblau, Prix : 343.0, URL : https://www.amazon.fr/dp/B0CVQ7DDS3
+2025-03-16 18:24:20,563 - INFO - Produit : Samsung A256B Galaxy A25 5G 128 Go/6 Go de RAM, Double SIM, Bleu, Prix : 250.0, URL : https://www.amazon.fr/dp/B0CN13L6F7
+2025-03-16 18:24:20,566 - INFO - Produit : Smartphone Samsung Galaxy A55 5G 256Go Bleu ciel, Prix : 366.0, URL : https://www.amazon.fr/dp/B0CVQ86VDB
+2025-03-16 18:24:20,568 - INFO - Produit : Samsung SM-A556B Galaxy A55 5G Dual SIM 8GB 256GB Awesome Navy EU, Prix : 367.0, URL : https://www.amazon.fr/dp/B0D2J35LLQ
+2025-03-16 18:24:20,570 - INFO - Produit : Samsung Galaxy A35 5G 8/256GB Negro Libre, Prix : 335.0, URL : https://www.amazon.fr/dp/B0CVQ6SYFK
+2025-03-16 18:24:20,572 - INFO - Produit : Samsung Galaxy S24 Ultra 12/256 Black, Prix : 899.0, URL : https://www.amazon.fr/dp/B0CSVS3FNK
+2025-03-16 18:24:20,574 - INFO - Produit : Samsung Galaxy A16 128 Go, Smartphone Android Déverrouillé, Écran 6,7", Batterie 5000 mAh, Bleu Nuit, Version FR, Prix : 171.0, URL : https://www.amazon.fr/dp/B0DGTTN6G8
+2025-03-16 18:24:20,576 - INFO - Produit : Samsung Galaxy S25 Ultra, Smartphone Android 5G avec Galaxy AI, 512 Go, Chargeur secteur rapide 25W inclus, Smartphone déverrouillé, Noir Titane, Version FR, Prix : None, URL : https://www.amazon.fr/dp/B0DNZK9L22
+2025-03-16 18:24:20,576 - WARNING - \u26a0\ufe0f Prix invalide pour Samsung Galaxy S25 Ultra, Smartphone Android 5G avec Galaxy AI, 512 Go, Chargeur secteur rapide 25W inclus, Smartphone déverrouillé, Noir Titane, Version FR : None
+2025-03-16 18:24:20,576 - INFO - Produit : Samsung A55 SM-A556B 6 + 128 Go DS 5G Awesome Lilac OEM, Prix : 349.0, URL : https://www.amazon.fr/dp/B0CYLRD2X8
+2025-03-16 18:24:20,578 - INFO - Produit : Samsung Galaxy S24 FE Smartphone 256 GB Graphit, Prix : 559.0, URL : https://www.amazon.fr/dp/B0DJB5K2Z2
+2025-03-16 18:24:20,580 - INFO - Produit : 2019 Samsung Galaxy A40 Dual SIM 64 Go - Noir (Reconditionné), Prix : 76.0, URL : https://www.amazon.fr/dp/B07YX526XT
+2025-03-16 18:24:20,582 - INFO - Produit : Samsung A057G/DSN Galaxy A05s, Dual, 64GB 4GB Ram, Silver, Prix : 123.0, URL : https://www.amazon.fr/dp/B0CP18RWN4
+2025-03-16 18:24:20,584 - INFO - Produit : Bose QuietComfort Ultra Earbuds, écouteurs à réduction de bruit dotés d'une technologie de son spatial révolutionnaire et du son immersif Bose, Blanc, Prix : 249.0, URL : https://www.amazon.fr/dp/B0CD2F4B1G
+2025-03-16 18:24:20,586 - INFO - Produit : SHIELDS UP Coque pour Samsung Galaxy A54 5G, avec Réglable Double Anneau de Support, Coque Mince en Antichoc pour Samsung A54 5G - Transparent, Prix : 15.0, URL : https://www.amazon.fr/dp/B0D172LSDQ
+2025-03-16 18:24:20,588 - INFO - Produit : ZARMST Clé USB 256 Go, Extension de Cle Mémoire Externe, Clé Photo, Lecteur Flash pour iOS et Android, Ordinateur, Pc, Photos/Vidéos/Fichiers Copiés en Un Clic (Rouge), Prix : 35.0, URL : https://www.amazon.fr/dp/B09T2R1ZV9
+2025-03-16 18:24:20,590 - INFO - Produit : UMIDIGI G9A Smartphone, Android 14 Go Telephone Portable, 8GB+64GB/1TB Téléphone, 6.75''HD Écran, 4G Double SIM Téléphone Portable, Octa-Core Processor/13MP+8MP Caméras/5000mAh Batterie - Blanc, Prix : 89.0, URL : https://www.amazon.fr/dp/B0DMT4DNN7
+2025-03-16 18:24:20,593 - INFO - Produit : crisant Coque Compatible avec Samsung Galaxy A16 4G / 5G, 3 Pièces Protection Écran en Verre Trempé, Housse Souple et Plaquage, Étui Antichoc et Anti-Rayures - Violet, Prix : 8.0, URL : https://www.amazon.fr/dp/B0DJNLGTBS
+2025-03-16 18:24:20,595 - INFO - Produit : 10€ Carte Cadeau PlayStation | Compte PSN français uniquement [Code par Email], Prix : 10.0, URL : https://www.amazon.fr/dp/B00I3P3BRS
+2025-03-16 18:24:20,597 - INFO - Produit : Assassin's Creed Shadows Limited Edition FRA PS5, Prix : 69.0, URL : https://www.amazon.fr/dp/B0D483QWN9
+2025-03-16 18:24:20,599 - INFO - Produit : Carte Cadeau Roblox - 800 Robux (article virtuel exclusif inclus] (Code digital pour ordinateur, téléphone, tablette, Xbox One, Xbox Series X|S, Oculus Rift et HTC Vive), Prix : 10.0, URL : https://www.amazon.fr/dp/B081KHDDQQ
+2025-03-16 18:24:20,600 - INFO - Produit : EA SPORTS FC 25 Standard Edition Switch | Jeu Vidéo | Français, Prix : 24.0, URL : https://www.amazon.fr/dp/B0D9899XQC
+2025-03-16 18:24:20,602 - INFO - Produit : SanDisk 128 Go, microSDXC, USH-I Carte, pour les consoles Nintendo Switch, jusqu'à 100 Mo/s Produit sous licence Nintendo, UHS-I, Class 10, U3, Prix : 16.0, URL : https://www.amazon.fr/dp/B07KXQX3S3
+2025-03-16 18:24:20,604 - INFO - Produit : Logitech G502 HERO Souris Gamer Filaire Haute Performance, Capteur Gaming HERO 25K, 25 600 PPP, RVB, Poids Ajustable, 11 Boutons Programmables, Mémoire Intégrée, PC/Mac - Noire, Prix : 42.0, URL : https://www.amazon.fr/dp/B07GS6ZB7T
+2025-03-16 18:24:20,606 - INFO - Produit : Xenoblade Chronicles X : Definitive Edition, Prix : 49.0, URL : https://www.amazon.fr/dp/B0DLH7JGYQ
+2025-03-16 18:24:20,608 - INFO - Produit : Playstation DualSenseWireless-Controller - Midnight Black 5, Prix : 69.0, URL : https://www.amazon.fr/dp/B094WLFGD3
+2025-03-16 18:24:20,610 - INFO - Produit : Xbox Carte Cadeau 10 EUR [Code Digital], Prix : 10.0, URL : https://www.amazon.fr/dp/B0186L0UIG
+2025-03-16 18:24:20,611 - INFO - Produit : Minecraft pour Nintendo Switch (La couverture peut varier), Prix : 22.0, URL : https://www.amazon.fr/dp/B07D3ZW98F
+2025-03-16 18:24:20,613 - INFO - Produit : VARTA Piles AA, lot de 40, Industrial Pro, Batterie Alcaline, 1,5V, pack de stockage en emballage écologique, Made in Germany [Exclusif sur Amazon], Prix : 16.0, URL : https://www.amazon.fr/dp/B00LN803LE
+2025-03-16 18:24:20,615 - INFO - Produit : Carte Cadeau Roblox - 2,000 Robux (article virtuel exclusif inclus] (Code digital pour ordinateur, téléphone, tablette, Xbox One, Xbox Series X|S, Oculus Rift et HTC Vive), Prix : 25.0, URL : https://www.amazon.fr/dp/B081KHWHP4
+2025-03-16 18:24:20,617 - INFO - Produit : Anker cable USB C vers USB C, 100 W 333 cable usb c charge rapide, pour iPhone 16/16 Pro/16 Plus/16 ProMax MacBook Pro 2020, iPad Pro 2020, iPad Air 4, Samsung Galaxy S23+/S23 et autres(1,8 m), Prix : 6.0, URL : https://www.amazon.fr/dp/B09LPXJ3RX
+2025-03-16 18:24:20,619 - INFO - Produit : Assassin's Creed Shadows Limited Edition FRA XBOX X, Prix : 69.0, URL : https://www.amazon.fr/dp/B0D481FQS1
+2025-03-16 18:24:20,621 - INFO - Produit : SanDisk microSDXC pour les consoles Nintendo Switch, Super Mario Super Star 256 Go, UHS-I Carte, jusqu'à 100 Mo/s, Produit sous licence Nintendo, Class 10, U3, Prix : 23.0, URL : https://www.amazon.fr/dp/B07QD6R5L7
+2025-03-16 18:24:20,623 - INFO - Produit : Mario Kart 8 Deluxe, Prix : 44.0, URL : https://www.amazon.fr/dp/B01N223WHL
+2025-03-16 18:24:20,624 - INFO - Produit : Xbox Manette sans Fil - Robot White Pour Xbox Series X, Xbox Series S, Xbox One, Windows 10 & 11, Android et iOS, Prix : 55.0, URL : https://www.amazon.fr/dp/B087VLP2RT
+2025-03-16 18:24:20,626 - INFO - Produit : Suikoden 1 & 2 HD Remaster: Day 1 - Switch, Prix : 49.0, URL : https://www.amazon.fr/dp/B0DFHM1SMF
+2025-03-16 18:24:20,628 - INFO - Produit : Donkey Kong Country Returns HD, Prix : 44.0, URL : https://www.amazon.fr/dp/B0D7HSJ4NZ
+2025-03-16 18:24:20,630 - INFO - Produit : Star Wars Outlaws - Limited Edition (Exclusivité Amazon ) - [PlayStation 5], Prix : 33.0, URL : https://www.amazon.fr/dp/B0CZXWZY4L
+2025-03-16 18:24:20,633 - INFO - Produit : Xbox Game Pass Ultimate - 1 Mois Abonnement | Xbox / Windows PC / Cloud - Code jeu à télécharger, Prix : 14.0, URL : https://www.amazon.fr/dp/B07RVLHZR9
+2025-03-16 18:24:20,635 - INFO - Produit : JOREST 38Pcs Kit Tournevis de Précision, Outillage Set avec Torx T1 T2 T3 T4 T5, TR5 T6 T7 T8 T9 T10 T15, Triwing Y00, Etoile P2/5, -1.0/2.0, etc, pour PS4, Xbox, Switch, Macbook, PC, Lunettes, Montre, Prix : 10.0, URL : https://www.amazon.fr/dp/B09FFCGLHK
+2025-03-16 18:24:20,637 - INFO - Produit : PORTHOLIC Adaptateur wii hdmi avec câble hdmi HD 1080p avec Sortie Audio 3,5 Mm Et Hdmi, Prend en Charge Tous Les Modes D'Affichage Wii pour Wii Monitor Projector TV (Blanc), Prix : 9.0, URL : https://www.amazon.fr/dp/B0753CZ8MC
+2025-03-16 18:24:20,638 - INFO - Produit : Super Mario Party Jamboree, Prix : 44.0, URL : https://www.amazon.fr/dp/B0D7HT64CG
+2025-03-16 18:24:20,640 - INFO - Produit : PlayStation 4 - DualShock 4 Wireless Controller, Schwarz, Prix : 59.0, URL : https://www.amazon.fr/dp/B01GVQUX3U
+2025-03-16 18:24:20,642 - INFO - Produit : Nintendo Console Switch avec Joy-Con bleu néon et rouge néon, Prix : 266.0, URL : https://www.amazon.fr/dp/B0BHDDH5W1
+2025-03-16 18:24:20,644 - INFO - Produit : ECHTPower 2024 Update Souris Ergonomique sans Fil, 2.4GHz Souris Verticale Rechargeable, Wireless Mouse Droitier Silencieuse, 4800 DPI Réglable Interface Type C pour PC Laptop Ordinateur Mac Windows, Prix : 24.0, URL : https://www.amazon.fr/dp/B09C1BQ1YX
+2025-03-16 18:24:20,646 - INFO - Produit : Split Fiction PS5 | Jeu Vidéo | Français, Prix : 49.0, URL : https://www.amazon.fr/dp/B0DQ5WMN4H
+2025-03-16 18:24:20,648 - INFO - Produit : ECHTPower Manette Switch LED, 2024 Upgrade Manette Switch sans Fil Pro Controller avec RGB/Hall Trigger/Bouton Macro/Turbo/Vibration Manette PC Bluetooth avec Switch/OLED/Lite/PC, Prix : 24.0, URL : https://www.amazon.fr/dp/B0DHRWNMV2
+2025-03-16 18:24:20,651 - INFO - Produit : Xbox Manette sans Fil - Carbon Black Pour Xbox Series X, Xbox Series S, Xbox One, Windows 10 & 11, Android et iOS, Prix : 59.0, URL : https://www.amazon.fr/dp/B07SDFLVKD
+2025-03-16 18:24:20,653 - INFO - Produit : iPhone 16e 128 Go : Conçu pour Apple Intelligence, Puce A18, Autonomie de Taille, Caméra Fusion 48 Mpx, Écran Super Retina XDR de 6,1 Pouces; Noir, Prix : 719.0, URL : https://www.amazon.fr/dp/B0DXR5S968
+2025-03-16 18:24:20,654 - INFO - Produit : Apple iPhone 16 (128 Go) - Outremer, Prix : 890.0, URL : https://www.amazon.fr/dp/B0DGJ2N566
+2025-03-16 18:24:48,196 - INFO - Traitement du lot 3 (URLs 100 à 150)...
+2025-03-16 18:24:58,739 - INFO - Résultats du scraping : 50 produits trouvés.
+2025-03-16 18:24:58,739 - INFO - Produit : Apple iPhone 16 Plus (128 Go) - Rose, Prix : None, URL : https://www.amazon.fr/dp/B0DGHQW185
+2025-03-16 18:24:58,739 - WARNING - \u26a0\ufe0f Prix invalide pour Apple iPhone 16 Plus (128 Go) - Rose : None
+2025-03-16 18:24:58,739 - INFO - Produit : iPhone 16e 128 Go : Conçu pour Apple Intelligence, Puce A18, Autonomie de Taille, Caméra Fusion 48 Mpx, Écran Super Retina XDR de 6,1 Pouces; Blanc, Prix : 719.0, URL : https://www.amazon.fr/dp/B0DXQQ65T2
+2025-03-16 18:24:58,784 - INFO - Produit : Apple iPhone 15 (128 Go) - Noir, Prix : 738.0, URL : https://www.amazon.fr/dp/B0CHXFCYCR
+2025-03-16 18:24:58,787 - INFO - Produit : Apple iPhone 13, 128Go, Minuit - (Reconditionné), Prix : 319.0, URL : https://www.amazon.fr/dp/B09MJVJM9Y
+2025-03-16 18:24:58,790 - INFO - Produit : Apple iPhone 11 64GB Noir (Reconditionné), Prix : 189.0, URL : https://www.amazon.fr/dp/B082P6M3HC
+2025-03-16 18:24:58,792 - INFO - Produit : Apple iPhone 15 (128 Go) - Noir, Prix : 738.0, URL : https://www.amazon.fr/dp/B0CHXFCYCR
+2025-03-16 18:24:58,793 - INFO - Produit : iPhone 16e 512 Go : Conçu pour Apple Intelligence, Puce A18, Autonomie de Taille, Caméra Fusion 48 Mpx, Écran Super Retina XDR de 6,1 Pouces; Blanc, Prix : None, URL : https://www.amazon.fr/dp/B0DXQHWYDB
+2025-03-16 18:24:58,793 - WARNING - \u26a0\ufe0f Prix invalide pour iPhone 16e 512 Go : Conçu pour Apple Intelligence, Puce A18, Autonomie de Taille, Caméra Fusion 48 Mpx, Écran Super Retina XDR de 6,1 Pouces; Blanc : None
+2025-03-16 18:24:58,793 - INFO - Produit : iPhone 16e 128 Go : Conçu pour Apple Intelligence, Puce A18, Autonomie de Taille, Caméra Fusion 48 Mpx, Écran Super Retina XDR de 6,1 Pouces; Blanc, Prix : 719.0, URL : https://www.amazon.fr/dp/B0DXQQ65T2
+2025-03-16 18:24:58,793 - INFO - Produit : iPhone 16e 128 Go : Conçu pour Apple Intelligence, Puce A18, Autonomie de Taille, Caméra Fusion 48 Mpx, Écran Super Retina XDR de 6,1 Pouces; Noir, Prix : 719.0, URL : https://www.amazon.fr/dp/B0DXR5S968
+2025-03-16 18:24:58,795 - INFO - Produit : Apple iPhone 12 mini, 64Go, Bleu - (Reconditionné), Prix : 205.0, URL : https://www.amazon.fr/dp/B08PCD1417
+2025-03-16 18:24:58,797 - INFO - Produit : Apple iPhone 12, 64Go, Noir - (Reconditionné), Prix : 244.0, URL : https://www.amazon.fr/dp/B08PCFVC58
+2025-03-16 18:24:58,799 - INFO - Produit : Apple iPhone 15 128Go - Noir (Reconditionné), Prix : 539.0, URL : https://www.amazon.fr/dp/B0CVJ23L79
+2025-03-16 18:24:58,801 - INFO - Produit : iPhone 16e 128 Go : Conçu pour Apple Intelligence, Puce A18, Autonomie de Taille, Caméra Fusion 48 Mpx, Écran Super Retina XDR de 6,1 Pouces; Noir, Prix : 719.0, URL : https://www.amazon.fr/dp/B0DXR5S968
+2025-03-16 18:24:58,801 - INFO - Produit : Apple Iphone Xr 64Go Noir (Reconditionné), Prix : 149.0, URL : https://www.amazon.fr/dp/B07N9HM3ZR
+2025-03-16 18:24:58,803 - INFO - Produit : Apple iPhone 14, 128 Go - Bleu - (Reconditionné), Prix : 419.0, URL : https://www.amazon.fr/dp/B0BNLXTK3P
+2025-03-16 18:24:58,805 - INFO - Produit : Apple iPhone 13 Mini, 128Go, Minuit - (Reconditionné), Prix : 289.0, URL : https://www.amazon.fr/dp/B09MJSRKWK
+2025-03-16 18:24:58,807 - INFO - Produit : Apple iPhone 14 Pro 128Go - Violet Foncé (Reconditionné), Prix : 579.0, URL : https://www.amazon.fr/dp/B0BNLZSY18
+2025-03-16 18:24:58,809 - INFO - Produit : Apple iPhone XR 64Go - Noir - Débloqué (Reconditionné), Prix : 159.0, URL : https://www.amazon.fr/dp/B07N9FFY52
+2025-03-16 18:24:58,811 - INFO - Produit : iPhone SE 2e Génération, 64GB, Rouge (Reconditionné), Prix : 109.0, URL : https://www.amazon.fr/dp/B08D351RSN
+2025-03-16 18:24:58,812 - INFO - Produit : Apple iPhone 12 Pro, 256GB, Bleu Pacifique - (Reconditionné), Prix : 348.0, URL : https://www.amazon.fr/dp/B08PCC2Y59
+2025-03-16 18:24:58,815 - INFO - Produit : Apple iPhone 13 (128 Go) - Minuit, Prix : 502.0, URL : https://www.amazon.fr/dp/B09G9HWQYT
+2025-03-16 18:24:58,817 - INFO - Produit : Apple iPhone 14 (128 Go) - Minuit, Prix : None, URL : https://www.amazon.fr/dp/B0BDJH7J5C
+2025-03-16 18:24:58,817 - WARNING - \u26a0\ufe0f Prix invalide pour Apple iPhone 14 (128 Go) - Minuit : None
+2025-03-16 18:24:58,817 - INFO - Produit : Apple iPhone 13 Pro, 128Go, Bleu Alpin - (Reconditionné), Prix : 409.0, URL : https://www.amazon.fr/dp/B09MJT5DY3
+2025-03-16 18:24:58,819 - INFO - Produit : Apple iPhone 16 (128 Go) - Rose, Prix : 890.0, URL : https://www.amazon.fr/dp/B0DGHN3YNR
+2025-03-16 18:24:58,821 - INFO - Produit : Apple iPhone SE 3e génération, 64 Go Midnight (Reconditionné), Prix : 189.0, URL : https://www.amazon.fr/dp/B0BGFNF6W7
+2025-03-16 18:24:58,823 - INFO - Produit : Apple iPhone 16 Pro (128 Go) - Titane Noir, Prix : None, URL : https://www.amazon.fr/dp/B0DGHH9JY3
+2025-03-16 18:24:58,823 - WARNING - \u26a0\ufe0f Prix invalide pour Apple iPhone 16 Pro (128 Go) - Titane Noir : None
+2025-03-16 18:24:58,823 - INFO - Produit : Apple iPhone 11 128Go - Noir - Débloqué (Reconditionné), Prix : 205.0, URL : https://www.amazon.fr/dp/B082DNFBZP
+2025-03-16 18:24:58,825 - INFO - Produit : Apple iPhone 13 Pro Max, 256Go, Graphite - (Reconditionné), Prix : 489.0, URL : https://www.amazon.fr/dp/B09MJTW89Y
+2025-03-16 18:24:58,827 - INFO - Produit : Apple iPhone 16 Pro Max (256 Go) - Titane Naturel, Prix : None, URL : https://www.amazon.fr/dp/B0DGHSG5D2
+2025-03-16 18:24:58,827 - WARNING - \u26a0\ufe0f Prix invalide pour Apple iPhone 16 Pro Max (256 Go) - Titane Naturel : None
+2025-03-16 18:24:58,827 - INFO - Produit : Apple iPhone 15 256Go - Noir (Reconditionné), Prix : 699.0, URL : https://www.amazon.fr/dp/B0CVJ7H584
+2025-03-16 18:24:58,829 - INFO - Produit : Apple iPhone 15 Plus (128 Go) - Noir, Prix : 865.0, URL : https://www.amazon.fr/dp/B0CHX3ZTJQ
+2025-03-16 18:24:58,830 - INFO - Produit : Apple iPhone 11 64GB Blanc (Reconditionné), Prix : 185.0, URL : https://www.amazon.fr/dp/B082DK377L
+2025-03-16 18:24:58,831 - INFO - Produit : iPhone 13 mini 128Go Minuit, Prix : 434.0, URL : https://www.amazon.fr/dp/B09MGCPYFZ
+2025-03-16 18:24:58,833 - INFO - Produit : Apple iPhone XS 64Go Gris Sidéral (Reconditionné), Prix : 170.0, URL : https://www.amazon.fr/dp/B07N9HM3Z4
+2025-03-16 18:24:58,835 - INFO - Produit : Apple iPhone 14 Plus, 128 Go - Violet - (Reconditionné), Prix : 463.0, URL : https://www.amazon.fr/dp/B0BNMC7723
+2025-03-16 18:24:58,837 - INFO - Produit : Apple iPhone 16 Plus (128 Go) - Rose, Prix : None, URL : https://www.amazon.fr/dp/B0DGHQW185
+2025-03-16 18:24:58,837 - WARNING - \u26a0\ufe0f Prix invalide pour Apple iPhone 16 Plus (128 Go) - Rose : None
+2025-03-16 18:24:58,837 - INFO - Produit : Apple iPhone 13 Mini, 128Go, Rose - (Reconditionné), Prix : 289.0, URL : https://www.amazon.fr/dp/B09MJTBN9X
+2025-03-16 18:24:58,839 - INFO - Produit : Apple iPhone 11 128GB Blanc (Reconditionné), Prix : 219.0, URL : https://www.amazon.fr/dp/B081YJ672T
+2025-03-16 18:24:58,841 - INFO - Produit : Apple iPhone 13 Mini, 128Go, Rouge - (Reconditionné), Prix : 279.0, URL : https://www.amazon.fr/dp/B09MJSNHXY
+2025-03-16 18:24:58,843 - INFO - Produit : Apple iPhone 6S 4.7-Inch 32 GB SIM-Free Smartphone - Space Grey (Renewed), Prix : 110.0, URL : https://www.amazon.fr/dp/B074KL8RMS
+2025-03-16 18:24:58,845 - INFO - Produit : Apple iPhone Se 32GB NFC LTE Compact Gris Sidéral (Reconditionné), Prix : 99.0, URL : https://www.amazon.fr/dp/B082L2HQ1T
+2025-03-16 18:24:58,846 - INFO - Produit : Apple iPhone 14 Pro Max, 128 Go, Deep Purple (Reconditionné), Prix : 653.0, URL : https://www.amazon.fr/dp/B0BNM1M33W
+2025-03-16 18:24:58,848 - INFO - Produit : Apple iPhone 13 Pro, 128 Go - Vert Alpin - (Reconditionné), Prix : 409.0, URL : https://www.amazon.fr/dp/B0BBPFDTNZ
+2025-03-16 18:24:58,851 - INFO - Produit : Apple iPhone 13, 256GB, Polarstern - (Generalüberholt), Prix : 359.0, URL : https://www.amazon.fr/dp/B09ML7TSMC
+2025-03-16 18:24:58,852 - INFO - Produit : iPhone SE 2e Génération, 128GB, Noir (Reconditionné), Prix : 119.0, URL : https://www.amazon.fr/dp/B08D377VBX
+2025-03-16 18:24:58,854 - INFO - Produit : Apple iPhone 12 Pro Max, 256GB, Bleu Pacifique - (Reconditionné), Prix : 427.0, URL : https://www.amazon.fr/dp/B08PCD1YDK
+2025-03-16 18:24:58,856 - INFO - Produit : Apple iPhone 15 Pro, 128 Go - Titane Noir (Reconditionné), Prix : None, URL : https://www.amazon.fr/dp/B0CVJ2RLP5
+2025-03-16 18:24:58,856 - WARNING - \u26a0\ufe0f Prix invalide pour Apple iPhone 15 Pro, 128 Go - Titane Noir (Reconditionné) : None
+2025-03-16 18:24:58,856 - INFO - Produit : Apple iPhone 15 Pro Max 256Go - Titane Naturel (Reconditionné), Prix : 899.0, URL : https://www.amazon.fr/dp/B0CVJT3MH6
+2025-03-16 18:24:58,858 - INFO - Produit : Apple iPhone 11, 64Go, Vert (Reconditionné), Prix : 199.0, URL : https://www.amazon.fr/dp/B082DN72G3
+2025-03-16 18:24:58,860 - INFO - Produit : Apple iPhone 11, 64 Go, Mauve (Reconditionné), Prix : 199.0, URL : https://www.amazon.fr/dp/B081YJH3SW
+2025-03-16 18:25:26,650 - INFO - Traitement du lot 4 (URLs 150 à 200)...
+2025-03-16 18:25:38,285 - INFO - Résultats du scraping : 50 produits trouvés.
+2025-03-16 18:25:38,285 - INFO - Produit : Apple iPhone 11 Pro 64Go Gris Sidéral (Reconditionné), Prix : 229.0, URL : https://www.amazon.fr/dp/B082DK7PK2
+2025-03-16 18:25:38,289 - INFO - Produit : Apple iPhone 15 128Go - Bleu (Reconditionné), Prix : 589.0, URL : https://www.amazon.fr/dp/B0CVJ5FCK9
+2025-03-16 18:25:38,291 - INFO - Produit : Apple iPhone 13 Pro Max 128Go - Vert Alpin (Reconditionné), Prix : 469.0, URL : https://www.amazon.fr/dp/B0BBP48ZTY
+2025-03-16 18:25:38,294 - INFO - Produit : Apple iPhone 11, 64 Go, (PRODUCT)RED (Reconditionné), Prix : 195.0, URL : https://www.amazon.fr/dp/B082DN7RVM
+2025-03-16 18:25:38,297 - INFO - Produit : Amazon Fire TV Stick HD (Nouvelle génération) | TV gratuite et en direct, télécommande vocale Alexa, contrôle de la maison connectée, streaming HD, Prix : 44.0, URL : https://www.amazon.fr/dp/B0CQMWQDH4
+2025-03-16 18:25:38,299 - INFO - Produit : Tapo 2K(3MP) Caméra Surveillance WiFi intérieure 360° C210, Vision nocturne, Notifications en temps réel, Détection de personne, Suivi de mouvement, Télécommande, Compatible avec Alexa, Prix : 19.0, URL : https://www.amazon.fr/dp/B095CLQ1PT
+2025-03-16 18:25:38,302 - INFO - Produit : VARTA Piles Bouton CR2032, lot de 5, Power on Demand, Lithium, 3V, emballage sécurisé pour les enfants, pour petits appareils électroniques - clés de voiture, télécommandes, balances, Prix : 6.0, URL : https://www.amazon.fr/dp/B00TYEL11K
+2025-03-16 18:25:38,304 - INFO - Produit : Aioneus Chargeur USB C, 40W 4 Port Prise USBC Chargeur Rapide iPhone, Multi Secteur PD+QC 3.1A Type C Adaptateur pour iPhone 16 15 14 13 12 11 Pro Max X XS XR 8 7 6S Plus Mini SE, iPad,Samsung Galaxy, Prix : 11.0, URL : https://www.amazon.fr/dp/B0CYSQPXDV
+2025-03-16 18:25:38,306 - INFO - Produit : Batterie Externe 20000mAh 22.5W PD3.0 QC4.0 Power Bank Batterie Portable USB C Input & Output Charge Rapide Powerbank avec écran LCD Compatible avec Smartphones, smartwatches, etc., Prix : 11.0, URL : https://www.amazon.fr/dp/B0DPSFNQPT
+2025-03-16 18:25:38,309 - INFO - Produit : Apple AirTag, Prix : 31.0, URL : https://www.amazon.fr/dp/B0935DN1BN
+2025-03-16 18:25:38,312 - INFO - Produit : Chargeur USB C, 20W Prise USB C Chargeur Rapide pour iPhone 16 15 14 13 12 11 Pro Max Plus Mini SE X XS XR, Samsung Galaxy, Embout Adaptateur Secteur Bloc USB Type C, Prix : 6.0, URL : https://www.amazon.fr/dp/B0D5GKMM1V
+2025-03-16 18:25:38,314 - INFO - Produit : Imou 2K(3MP) Caméra Surveillance WiFi Intérieure Caméra 360° Connectée Smartphone avec Détection Humaine AI Suivi Intelligent Sirène Audio Bidirectionnel Compatible Alexa pour Bébé/Animaux, Prix : 18.0, URL : https://www.amazon.fr/dp/B08X6DCJT2
+2025-03-16 18:25:38,318 - INFO - Produit : INIU Batterie Externe, 22.5W 10000mAh Power Bank, Batterie Portable USB C Input & Output PD3.0 QC4.0 Charge Rapide Powerbank Compatible avec iPhone 16 15 14 13 12 Pro Max Plus Samsung iPad Pro etc, Prix : 21.0, URL : https://www.amazon.fr/dp/B08JTQ66K7
+2025-03-16 18:25:38,322 - INFO - Produit : Paquet de 40 Piles Bouton alcaline de la Pile LR1130 AG10, Prix : 7.0, URL : https://www.amazon.fr/dp/B07BF3W324
+2025-03-16 18:25:38,324 - INFO - Produit : Energizer Piles AA, Alkaline Power, Lot de 24, Pile alcaline, Prix : 15.0, URL : https://www.amazon.fr/dp/B07L49RDJH
+2025-03-16 18:25:38,327 - INFO - Produit : Energizer Alkaline Power AAA, 16 Pack, Prix : 10.0, URL : https://www.amazon.fr/dp/B07L49WWWR
+2025-03-16 18:25:38,331 - INFO - Produit : DURACELL CR2032 Piles Boutons au lithium 3V (lot de 4) - Jusqu’à +70 % de longévité - Technologie Sécurité Enfant - Recommandées pour l’AirTag d’Apple - Emballage Sécurité Enfant, Prix : 5.0, URL : https://www.amazon.fr/dp/B01CG0TO76
+2025-03-16 18:25:38,333 - INFO - Produit : Lot de 2 pour Chargeur Rapide iPhone, 20W PD USB-C Prise Secteur avec 2m Câble USB C vers Lightning pour iPhone 14/14 pro/13/13 Pro/13 Pro Max/13 Min, Prix : 17.0, URL : https://www.amazon.fr/dp/B0D2HG659D
+2025-03-16 18:25:38,336 - INFO - Produit : Chargeur USB C, 45W Prise USB Rapide pour iPhone 16 15 14 13 12 11 Plus Pro Max Samsung Chargeur Rapide 4-Port Multiple Charge usb avec PD et QC3.0 Type C Secteur Mural Alimentation Adaptateur Romalux, Prix : 10.0, URL : https://www.amazon.fr/dp/B0D6FWY91D
+2025-03-16 18:25:38,338 - INFO - Produit : Amazon Basics Lot de 40 piles alkaline AA industrielles, Prix : 15.0, URL : https://www.amazon.fr/dp/B07MLFBJG3
+2025-03-16 18:25:38,341 - INFO - Produit : Chargeur for iPhone 14/14 Pro /14 Pro Max /14 Plus /13 12 11 SE Mini X XS XR, 25W USB C Prise Rapide et 2M Cable Secteur Mural Type C Alimentation Adaptateur Trefard, Prix : 13.0, URL : https://www.amazon.fr/dp/B0D17L15YV
+2025-03-16 18:25:38,344 - INFO - Produit : Apple AirPods Pro 2 Écouteurs sans Fil, Casques et écouteurs Bluetooth, Réduction Active du Bruit, Appareil auditif, Mode Transparence, Audio Spatial personnalisé, Son Haute-fidélité, Recharge USB-C, Prix : 179.0, URL : https://www.amazon.fr/dp/B0CHWZ9TZS
+2025-03-16 18:25:38,346 - INFO - Produit : Duracell Plus Piles AAA (lot de 12) - Alcalines 1,5V - Jusqu’à 100% plus longtemps - Idéales pour les appareils du quotidien - Emballage 0% plastique - Conservation 10 ans - LR03 MN2400, Prix : 10.0, URL : https://www.amazon.fr/dp/B093LT2N4Q
+2025-03-16 18:25:38,348 - INFO - Produit : Ecouteurs Bluetooth sans Fil,Bluetooth 5.3 Ecouteurs sans Fil,Ecouteurs Hi-FI Son Stéréo,Écouteurs 35H Durée de Lecture CVC Réduction de Bruit USB C Casque Bluetooth for iOS Galaxy Xiaomi Oppo Android, Prix : 16.0, URL : https://www.amazon.fr/dp/B0CHLYB4Z3
+2025-03-16 18:25:38,351 - INFO - Produit : 45W Chargeur USB C Secteur Charge Rapide pour Samsung Galaxy S25/S24/S23/S22/S21 Ultra/S20/S20+/Note 20/10/9/8/A73/A53/A52/S10/S9 et 2M Câble, Nanaisse Adaptateur Type C Mural Alimentation Prise Noir, Prix : 16.0, URL : https://www.amazon.fr/dp/B0CFXH1H17
+2025-03-16 18:25:38,354 - INFO - Produit : Amazon Basics piles alkaline AAA industrielles, 40 Unités (Lot de 1), Prix : 11.0, URL : https://www.amazon.fr/dp/B07MLDJF3B
+2025-03-16 18:25:38,356 - INFO - Produit : Duracell Plus Piles AA (lot de 12) - Alcalines 1,5V - Jusqu’à 100% plus longtemps - Idéales pour les appareils du quotidien - Emballage 0% plastique - Conservation 10 ans - LR6 MN1500, Prix : 9.0, URL : https://www.amazon.fr/dp/B093LVB4P7
+2025-03-16 18:25:38,359 - INFO - Produit : Blister 20 Piles Boutons AG13 LR44/LR1154/357 sans Mercure (AG13&LR44-20 Piles), Prix : 5.0, URL : https://www.amazon.fr/dp/B07D8SCV11
+2025-03-16 18:25:38,362 - INFO - Produit : DURACELL CR2032 Piles Boutons au lithium 3V (lot de 8) - Jusqu’à +70 % de longévité - Technologie Sécurité Enfant - Recommandées pour l’AirTag d’Apple - Emballage Sécurité Enfant, Prix : 11.0, URL : https://www.amazon.fr/dp/B06VW5BH2K
+2025-03-16 18:25:38,364 - INFO - Produit : JBL GO 4, Enceinte Bluetooth ultra-portable, son JBL Pro, basses percutantes, 7 heures d'autonomie, fonction Playtime Boost, résistante à l'eau et à la poussière IP67, noir, Prix : 39.0, URL : https://www.amazon.fr/dp/B0CX5C6WP3
+2025-03-16 18:25:38,366 - INFO - Produit : Chargeur Rapide pour iPhone 14/14 Pro/14 Pro Max/14 Plus/13 12 11 SE Mini X XS XR 8, Prise Adaptateur Secteur Embout USB C 25W et 2M Cable Secteur, Prix : 8.0, URL : https://www.amazon.fr/dp/B0D8J688ZJ
+2025-03-16 18:25:38,369 - INFO - Produit : Apple EarPods avec connecteur Lightning \u200b\u200b\u200b\u200b\u200b\u200b\u200b, Prix : 18.0, URL : https://www.amazon.fr/dp/B0D7MNX9Y5
+2025-03-16 18:25:38,371 - INFO - Produit : Apple Lot de 4 AirTags, Prix : 99.0, URL : https://www.amazon.fr/dp/B0935JRJ59
+2025-03-16 18:25:38,374 - INFO - Produit : Apple AirPods 4 Écouteurs sans Fil, Casques et écouteurs Bluetooth, Audio Spatial personnalisé, résistance à la Transpiration et l’Eau, boîtier de Charge USB-C, Puce H2, Jusqu’à 24 Heures d’autonomie, Prix : 139.0, URL : https://www.amazon.fr/dp/B0DGHWD7CT
+2025-03-16 18:25:38,376 - INFO - Produit : HP 305 Pack de 2 Cartouches d'Encre, Noire et Trois Couleurs, Prix : 24.0, URL : https://www.amazon.fr/dp/B08T1HR5CS
+2025-03-16 18:25:38,378 - INFO - Produit : HP 305 Cartouche d'Encre Noire Authentique (3YM61AE), Prix : 12.0, URL : https://www.amazon.fr/dp/B087DJ43K3
+2025-03-16 18:25:38,381 - INFO - Produit : SanDisk 128 Go Ultra microSDXC, Carte micro sd + adaptateur SD (Pour Smartphone et Tablette, Video Full HDD, jusqu'à 140 Mo/s, UHS-I, La performance A1, Class 10, U1), Prix : 15.0, URL : https://www.amazon.fr/dp/B0B7NTY2S6
+2025-03-16 18:25:38,384 - INFO - Produit : Disque Dur Externe 2To, USB 3.1-2.5 Pouces, Portable étanche et Anti-Choc pour PC, Mac, TV, MacBook, Ordinateur Portable, Bureau, Windows \uff08Noir\uff09, Prix : 39.0, URL : https://www.amazon.fr/dp/B0DZC56C2D
+2025-03-16 18:25:38,386 - INFO - Produit : HP 302 Pack de 2 cartouches d'encre, noire et Cyan, Magenta, Jaune, authentiques (X4D37AE), Prix : 37.0, URL : https://www.amazon.fr/dp/B01LXLFF6H
+2025-03-16 18:25:38,389 - INFO - Produit : HP 305XL cartouche d'encre noire haute capacité originale, Prix : 21.0, URL : https://www.amazon.fr/dp/B087DH9GT3
+2025-03-16 18:25:38,391 - INFO - Produit : HP 302 Cartouche d'Encre Noire Authentique (F6U66AE) Standard, Prix : 18.0, URL : https://www.amazon.fr/dp/B00VYAWIRS
+2025-03-16 18:25:38,394 - INFO - Produit : HP 304 Cartouche d'Encre Noire Authentique (N9K06AE), Prix : 14.0, URL : https://www.amazon.fr/dp/B01EA0EG3W
+2025-03-16 18:25:38,396 - INFO - Produit : HP 301 Pack de 2 Cartouches d'Encre Noire et Trois Couleurs Authentiques (N9J72AE),Cyan/Magenta/Jaune/Noir, Prix : 39.0, URL : https://www.amazon.fr/dp/B01AGGJ44K
+2025-03-16 18:25:38,399 - INFO - Produit : Lexar Carte Micro SD 64 Go, Carte Mémoire Micro SD+ Adaptateur, Microsdxc Carte TF jusqu'à 100 Mo/s, A1, U3, C10, V30, Full HD et 4K UHD pour Caméra, Telephone, Switch, Prix : 9.0, URL : https://www.amazon.fr/dp/B08XZ2KS1F
+2025-03-16 18:25:38,402 - INFO - Produit : SanDisk Ultra 256 Go microSDXC, Carte micro sd + adaptateur SD (Pour Smartphone et Tablette, Video Full HDD, jusqu'à 150 Mo/s, UHS-I, La performance A1, Class 10, U1), Prix : 21.0, URL : https://www.amazon.fr/dp/B0B7NV73PJ
+2025-03-16 18:25:38,404 - INFO - Produit : Canon Pack Encre & Papier - PG-540/CL-541 Cartouches d'encre Authentiques pour imprimante - 2 Packs (1 x Noir, 1 x Couleur) & Papier Photo 4x6 (50 x Feuilles), Prix : 46.0, URL : https://www.amazon.fr/dp/B0CH8H25T8
+2025-03-16 18:25:38,407 - INFO - Produit : HP 62 Pack de 2 Cartouches d'Encre Noire et Trois Couleurs Authentiques (N9J71AE), Prix : 44.0, URL : https://www.amazon.fr/dp/B01ARRTHUE
+2025-03-16 18:25:38,409 - INFO - Produit : HP 305 Cartouche d'Encre Trois Couleurs Cyan/Magenta/Jaune Authentique (3YM60AE), Prix : 11.0, URL : https://www.amazon.fr/dp/B085SFP8ZY
+2025-03-16 18:25:38,412 - INFO - Produit : SanDisk Extreme PRO 128 Go Carte SDXC, Carte SD V30, UHS-I, 4K UHD Videos, Vitesse de Transfert jusqu'à 200 Mo/s, RescuePRO Deluxe, Technologie SanDisk QuickFlow Class 10, U3, Prix : 23.0, URL : https://www.amazon.fr/dp/B09X7FXHVJ
+2025-03-16 18:25:38,414 - INFO - Produit : HP 305XL Cartouche d'Encre Trois Couleurs grande capacité Authentique (3YM63AE), Cyan/Magenta/Jaune, Prix : 19.0, URL : https://www.amazon.fr/dp/B087DGWYNS
+2025-03-16 18:25:57,800 - INFO - Traitement du lot 5 (URLs 200 à 250)...
+2025-03-16 18:26:03,703 - INFO - Résultats du scraping : 14 produits trouvés.
+2025-03-16 18:26:03,703 - INFO - Produit : SanDisk Ultra Flair 128 Go Flash Drive, Clé USB, des vitesses allant jusqu'à 150 Mo/s, USB 3.0, Protection par mot de passe, Un boîtier en métal élégant et resistant, Argent/Noir, Prix : 11.0, URL : https://www.amazon.fr/dp/B015CH1PJU
+2025-03-16 18:26:03,707 - INFO - Produit : TP-Link Repeteur WiFi RE330, Amplificateur WiFi AC1200 Mbps, Port Ethernet Gigabit, Repeteur WiFi Puissant, compatible avec les box internet, profitez sans changer votre Box, Prix : 29.0, URL : https://www.amazon.fr/dp/B08X19VZN8
+2025-03-16 18:26:03,710 - INFO - Produit : EPSON Serie Etoile de mer 603 Pack de 4 N J C M, Prix : 36.0, URL : https://www.amazon.fr/dp/B07VVSTH27
+2025-03-16 18:26:03,713 - INFO - Produit : HP 301 - Noir - 170 pages, Prix : 19.0, URL : https://www.amazon.fr/dp/B003LNLPQ6
+2025-03-16 18:26:03,715 - INFO - Produit : Canon Cartouche Encre - PG-545 Cartouche d'encre Noire Authentique pour imprimante - (1 x Cartouche), Prix : 17.0, URL : https://www.amazon.fr/dp/B00ET2LU2M
+2025-03-16 18:26:03,718 - INFO - Produit : Canon RP-108 kit encre couleur pour imprimante Selphy au format carte postale (10cm x 14,8cm) origine canon garantie, 108 feuilles, Prix : 32.0, URL : https://www.amazon.fr/dp/B00HQE9NM4
+2025-03-16 18:26:03,721 - INFO - Produit : Prodoki PG-545XL CL-546XL Cartouche d'encre Remplacement pour 545 546 Cartouche XL pour Pixma MX495 TS3150 TS3350 TS3151 TS3351 MG2550S MG2555S MG3050 MG2950 MG3051 MG2450 MG2500 TR4550 TR4551, Prix : 32.0, URL : https://www.amazon.fr/dp/B0CLTPMQZD
+2025-03-16 18:26:03,723 - INFO - Produit : HP DeskJet 4220e Imprimante tout en un - Jet d'encre couleur – 3 mois d’Instant Ink inclus avec HP+ (Photocopie, Scan, Impression, Wifi, Chargeur automatique de documents), Prix : 49.0, URL : https://www.amazon.fr/dp/B0CFG1PB4P
+2025-03-16 18:26:03,726 - INFO - Produit : Canon Cartouche Encre - PG-540 Cartouche d'encre Noire Authentique pour imprimante - Imprime jusqu'à 180 Pages A4 (1 x Cartouche), Prix : 20.0, URL : https://www.amazon.fr/dp/B09MDJ2B2S
+2025-03-16 18:26:03,728 - INFO - Produit : TP-Link Clé WiFi Puissante AC1300 Mbps, adaptateur USB wifi, dongle wifi, USB 3.0 Double Bande, 2.4G / 5GHz, MU-MIMO, compatible avec Windows 11/10/8.1/8/7/XP, Mac OS X, Archer T3U, Prix : 15.0, URL : https://www.amazon.fr/dp/B07M69276N
+2025-03-16 18:26:03,731 - INFO - Produit : ARCTIC MX-4 (4 g) - Pâte thermique de haute performance pour tous les processeurs (CPU, GPU - PC, PS4, XBOX), conductivité thermique très élevée, longue durée de vie, application sûre, non-conductrice, Prix : 5.0, URL : https://www.amazon.fr/dp/B07L9BDY3T
+2025-03-16 18:26:03,733 - INFO - Produit : Canon Cartouche Encre - PG-545XL Cartouche d'encre Noire véritable pour imprimante à Haut rendement - Imprime jusqu'à 400 Pages A4 (1 x Cartouche), Prix : 23.0, URL : https://www.amazon.fr/dp/B00ET01FR4
+2025-03-16 18:26:03,736 - INFO - Produit : HP 303 Cartouche d'Encre Noire Authentique (T6N02AE), Prix : 17.0, URL : https://www.amazon.fr/dp/B074574XPT
+2025-03-16 18:26:03,739 - INFO - Produit : Crucial P3 Plus SSD 1To PCIe Gen4 NVMe M.2 SSD Interne, Jusqu’à 5.000 Mo/s, Compatible avec Ordinateur Portable et de Bureau, Disque Dur SSD - CT1000P3PSSD801, Prix : 69.0, URL : https://www.amazon.fr/dp/B0BYWB6237
+2025-03-16 18:26:32,027 - INFO - Cycle terminé. Attente avant le prochain cycle...
